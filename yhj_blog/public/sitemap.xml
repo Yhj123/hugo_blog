@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<sitemapindex xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <sitemap>
+    <loc>http://72.18.81.58/en/sitemap.xml</loc>
+    
+      <lastmod>2023-05-20T10:22:37+08:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://72.18.81.58/zh-cn/sitemap.xml</loc>
+    
+      <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+  <sitemap>
+    <loc>http://72.18.81.58/ar/sitemap.xml</loc>
+    
+      <lastmod>2019-03-09T00:00:00+00:00</lastmod>
+    
+  </sitemap>
+  
+</sitemapindex>
