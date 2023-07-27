@@ -1,6 +1,7 @@
 ---
 title: "Git基础"
 date: 2023-05-16T20:04:58+08:00
+categories : [ "git" ]
 draft: false
 ---
 

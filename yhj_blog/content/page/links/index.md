@@ -9,6 +9,15 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
+  - title : 神奇的程序员
+    description: 翻到的帖子
+    website: https://www.kaisir.cn/
+  - title: 路羽博客
+    description: 分享有趣的源码
+    website: https://www.luyuz.cn/
+  - title: csblog
+    description: 技术网站
+    website: https://csblog.cc/
 menu:
     main: 
         weight: -50

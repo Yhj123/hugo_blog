@@ -1,6 +1,7 @@
 ---
 title: "Git合并"
 date: 2023-05-22T13:08:22+08:00
+categories : [ "git" ]
 draft: true
 ---
 

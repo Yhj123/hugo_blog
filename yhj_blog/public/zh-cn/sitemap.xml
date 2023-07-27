@@ -2,118 +2,79 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://72.18.81.58/zh-cn/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://72.18.81.58/"
+                href="/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://72.18.81.58/ar/"
+                href="/ar/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/"
+                href="/zh-cn/"
                 />
   </url><url>
-    <loc>http://72.18.81.58/zh-cn/categories/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://72.18.81.58/categories/"
+                href="/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://72.18.81.58/ar/categories/"
+                href="/ar/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/categories/"
+                href="/zh-cn/categories/"
                 />
   </url><url>
-    <loc>http://72.18.81.58/zh-cn/p/test-chinese/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://72.18.81.58/zh-cn/post/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/page/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://72.18.81.58/post/"
+                href="/page/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="zh-cn"
+                href="/zh-cn/page/"
+                />
+  </url><url>
+    <loc>/zh-cn/tags/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="ar"
-                href="http://72.18.81.58/ar/post/"
+                href="/ar/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/post/"
+                href="/zh-cn/tags/"
                 />
   </url><url>
-    <loc>http://72.18.81.58/zh-cn/categories/test/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
+    <loc>/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="http://72.18.81.58/categories/test/"
+                href="/about/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/categories/test/"
-                />
-  </url><url>
-    <loc>http://72.18.81.58/zh-cn/categories/%E6%B5%8B%E8%AF%95/</loc>
-    <lastmod>2020-09-09T00:00:00+00:00</lastmod>
-  </url><url>
-    <loc>http://72.18.81.58/zh-cn/page/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://72.18.81.58/page/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/page/"
-                />
-  </url><url>
-    <loc>http://72.18.81.58/zh-cn/tags/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://72.18.81.58/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ar"
-                href="http://72.18.81.58/ar/tags/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/tags/"
-                />
-  </url><url>
-    <loc>http://72.18.81.58/zh-cn/%E5%85%B3%E4%BA%8E/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="http://72.18.81.58/about/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="zh-cn"
-                href="http://72.18.81.58/zh-cn/%E5%85%B3%E4%BA%8E/"
+                href="/zh-cn/%E5%85%B3%E4%BA%8E/"
                 />
   </url>
 </urlset>

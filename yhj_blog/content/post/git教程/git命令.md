@@ -1,6 +1,7 @@
 ---
 title: "Git其它命令"
 date: 2023-05-10T19:22:17+08:00
+categories : [ "git" ]
 draft: false
 ---
 
