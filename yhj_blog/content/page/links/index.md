@@ -1,6 +1,9 @@
 ---
 title: Links
 links:
+  - title: 杂志期刊
+    description: 中文杂志
+    website: http://qikan.lifves.com/
   - title: GitHub
     description: GitHub is the world's largest software development platform.
     website: https://github.com
@@ -18,6 +21,15 @@ links:
   - title: csblog
     description: 技术网站
     website: https://csblog.cc/
+  - title: Hacker News
+    description: 技术网站
+    website: https://news.ycombinator.com/
+  - title: 经济学人
+    description: 英文杂志
+    website: https://www.economist.com/
+  - title: Science American
+    description: 英文杂志
+    website: https://www.scientificamerican.com/
 menu:
     main: 
         weight: -50

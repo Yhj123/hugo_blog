@@ -1,18 +1,31 @@
 <!DOCTYPE html>
 <html lang="en-us" dir="ltr">
     <head><meta charset='utf-8'>
-<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='This is a About page test.'>
+<meta name='viewport' content='width=device-width, initial-scale=1'><meta name='description' content='PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.'>
 <title>关于</title>
 
 <link rel='canonical' href='/zh-cn/%E5%85%B3%E4%BA%8E/'>
 
 <link rel="stylesheet" href="/scss/style.min.5be32ca3f6e1a997c75795c4359147cc6d4fbd34948c0acd51e31d237033978a.css"><meta property='og:title' content='关于'>
-<meta property='og:description' content='This is a About page test.'>
+<meta property='og:description' content='PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.'>
 <meta property='og:url' content='/zh-cn/%E5%85%B3%E4%BA%8E/'>
 <meta property='og:site_name' content='谁'>
 <meta property='og:type' content='article'><meta property='article:section' content='Page' />
 <meta name="twitter:title" content="关于">
-<meta name="twitter:description" content="This is a About page test.">
+<meta name="twitter:description" content="PreviousNext &amp;nbsp; &amp;nbsp;/ [pdf]View the PDF file here.">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
+
+<script src="https://cdn.jsdelivr.net/npm/meting@2/dist/Meting.min.js"></script>
+
+
+<script src="https://cdn.jsdelivr.net/npm/vconsole/dist/vconsole.min.js"></script>
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.css">
+<script src="https://cdn.jsdelivr.net/npm/hls.js/dist/hls.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/aplayer@1.10.1/dist/APlayer.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/color-thief-don@2.0.2/src/color-thief.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/meting@2.0.1/dist/Meting.min.js"></script>
+<meting-js server="netease" type="playlist" id="167985096" fixed="true"></meting-js>
     </head>
     <body class="
     article-page
@@ -264,7 +277,286 @@
     <section class="article-content">
     
     
-    <p>This is a About page test.</p>
+    <!-- 网易云 -->
+<meting-js auto=http://music.163.com/#/song?id&#61;1988233212></meting-js>
+
+
+
+
+<!-- qq音乐 -->
+<p><meting-js auto=https://y.qq.com/n/ryqq/song/001RGrEX3ija5X.html></meting-js>
+
+
+
+
+<meting-js auto=https://y.qq.com/n/ryqq/playlist/8715942454.html></meting-js>
+
+
+
+</p>
+<div class="video-wrapper">
+    <iframe loading="lazy" 
+            src="https://www.youtube.com/embed/2zC2K6zi4ig" 
+            allowfullscreen 
+            title="YouTube Video"
+    >
+    </iframe>
+</div>
+
+<div class="video-wrapper">
+    <iframe id="odysee-iframe" src="https://odysee.com/$/embed/@jiaer01:0/他明知妻子在幾天前已被人掉包，卻睜一隻眼閉一隻眼和她繼續恩愛！2023年日本愛情:2?r=EL1YUbVZPLMpVMVUCSxbWkbduVK2CBin" allowfullscreen></iframe>
+</div>
+<div class="video-wrapper">
+    <iframe id="odysee-iframe" src="http://72.18.81.58:88/w/f1aae49e02f06c5f0c7c73233314df1b" allowfullscreen></iframe>
+</div>
+<script type="text/javascript" src= '/js/pdf-js/build/pdf.js'></script>
+
+<style>
+  #embed-pdf-container {
+    position: relative;
+    width: 100%;
+    height: auto;
+    min-height: 20vh;
+     
+  }
+  
+  .pdf-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  #the-canvas {
+    border: 1px solid black;
+    direction: ltr;
+    width: 100%;
+    height: auto;
+    display: none;
+  }
+  
+  
+  .pdf-loadingWrapper {
+    display: none;
+    justify-content: center;
+    align-items: center;
+    width: 100%;
+    height: 350px;
+  }
+  
+  .pdf-loading {
+    display: inline-block;
+    width: 50px;
+    height: 50px;
+    border: 3px solid #d2d0d0;;
+    border-radius: 50%;
+    border-top-color: #383838;
+    animation: spin 1s ease-in-out infinite;
+    -webkit-animation: spin 1s ease-in-out infinite;
+  }
+  
+  
+  
+  
+  
+  #overlayText {
+    word-wrap: break-word;
+    display: grid;
+    justify-content: end;
+  }
+  
+  #overlayText a {
+    position: relative;
+    top: 10px;
+    right: 4px;
+    color: #000;
+    margin: auto;
+    background-color: #eeeeee;
+    padding: 0.3em 1em;
+    border: solid 2px;
+    border-radius: 12px;
+    border-color: #00000030;
+    text-decoration: none;
+  }
+  
+  #overlayText svg {
+    height: clamp(1em, 2vw, 1.4em);
+    width:  clamp(1em, 2vw, 1.4em);
+  }
+  
+  
+  
+  @keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  @-webkit-keyframes spin {
+    to { -webkit-transform: rotate(360deg); }
+  }
+  </style><div class="embed-pdf-container" id="embed-pdf-container-bf01e405">
+    <div class="pdf-loadingWrapper" id="pdf-loadingWrapper-bf01e405">
+        <div class="pdf-loading" id="pdf-loading-bf01e405"></div>
+    </div>
+    <div id="overlayText">
+      <a href="/pdf/%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%ef%bc%88%e7%ac%ac4%e7%89%88%ef%bc%89.pdf" aria-label="Download" download>
+        <svg aria-hidden="true" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 18 18">
+            <path d="M9 13c.3 0 .5-.1.7-.3L15.4 7 14 5.6l-4 4V1H8v8.6l-4-4L2.6 7l5.7 5.7c.2.2.4.3.7.3zm-7 2h14v2H2z" />
+        </svg>
+      </a>
+    </div>
+    <canvas class="pdf-canvas" id="pdf-canvas-bf01e405"></canvas>
+</div>
+
+<div class="pdf-paginator" id="pdf-paginator-bf01e405">
+    <button id="pdf-prev-bf01e405">Previous</button>
+    <button id="pdf-next-bf01e405">Next</button> &nbsp; &nbsp;
+    <span>
+      <span class="pdf-pagenum" id="pdf-pagenum-bf01e405"></span> / <span class="pdf-pagecount" id="pdf-pagecount-bf01e405"></span>
+    </span>
+    <a class="pdf-source" id="pdf-source-bf01e405" href="/pdf/%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%ef%bc%88%e7%ac%ac4%e7%89%88%ef%bc%89.pdf">[pdf]</a>
+</div>
+
+<noscript>
+View the PDF file <a class="pdf-source" id="pdf-source-noscript-bf01e405" href="/pdf/%e6%b1%87%e7%bc%96%e8%af%ad%e8%a8%80%ef%bc%88%e7%ac%ac4%e7%89%88%ef%bc%89.pdf">here</a>.
+</noscript>
+
+<script type="text/javascript">
+    (function(){
+    var url = '\/pdf\/汇编语言（第4版）.pdf';
+
+    var hidePaginator = "" === "true";
+    var hideLoader = "" === "true";
+    var selectedPageNum = parseInt("8") || 1;
+
+    
+    var pdfjsLib = window['pdfjs-dist/build/pdf'];
+
+    
+    if (pdfjsLib.GlobalWorkerOptions.workerSrc == '')
+      pdfjsLib.GlobalWorkerOptions.workerSrc = "\/" + 'js/pdf-js/build/pdf.worker.js';
+
+    
+    var pdfDoc = null,
+        pageNum = selectedPageNum,
+        pageRendering = false,
+        pageNumPending = null,
+        scale = 3,
+        canvas = document.getElementById('pdf-canvas-bf01e405'),
+        ctx = canvas.getContext('2d'),
+        paginator = document.getElementById("pdf-paginator-bf01e405"),
+        loadingWrapper = document.getElementById('pdf-loadingWrapper-bf01e405');
+
+
+    
+    showPaginator();
+    showLoader();
+
+    
+
+    function renderPage(num) {
+      pageRendering = true;
+      
+      pdfDoc.getPage(num).then(function(page) {
+        var viewport = page.getViewport({scale: scale});
+        canvas.height = viewport.height;
+        canvas.width = viewport.width;
+
+        
+        var renderContext = {
+          canvasContext: ctx,
+          viewport: viewport
+        };
+        var renderTask = page.render(renderContext);
+
+        
+        renderTask.promise.then(function() {
+          pageRendering = false;
+          showContent();
+
+          if (pageNumPending !== null) {
+            
+            renderPage(pageNumPending);
+            pageNumPending = null;
+          }
+        });
+      });
+
+      
+      document.getElementById('pdf-pagenum-bf01e405').textContent = num;
+    }
+
+    
+
+    function showContent() {
+      loadingWrapper.style.display = 'none';
+      canvas.style.display = 'block';
+    }
+
+    
+
+    function showLoader() {
+      if(hideLoader) return
+      loadingWrapper.style.display = 'flex';
+      canvas.style.display = 'none';
+    }
+
+    
+
+    function showPaginator() {
+      if(hidePaginator) return
+      paginator.style.display = 'block';
+    }
+
+    
+
+    function queueRenderPage(num) {
+      if (pageRendering) {
+        pageNumPending = num;
+      } else {
+        renderPage(num);
+      }
+    }
+
+    
+
+    function onPrevPage() {
+      if (pageNum <= 1) {
+        return;
+      }
+      pageNum--;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-prev-bf01e405').addEventListener('click', onPrevPage);
+
+    
+
+    function onNextPage() {
+      if (pageNum >= pdfDoc.numPages) {
+        return;
+      }
+      pageNum++;
+      queueRenderPage(pageNum);
+    }
+    document.getElementById('pdf-next-bf01e405').addEventListener('click', onNextPage);
+
+    
+
+    pdfjsLib.getDocument(url).promise.then(function(pdfDoc_) {
+      pdfDoc = pdfDoc_;
+      var numPages = pdfDoc.numPages;
+      document.getElementById('pdf-pagecount-bf01e405').textContent = numPages;
+
+      
+      if(pageNum > numPages) {
+        pageNum = numPages
+      }
+
+      
+      renderPage(pageNum);
+    });
+    })();
+</script>
+
 
 </section>
 
@@ -350,12 +642,8 @@
         2023 谁
     </section>
     
-    <section class="powerby">
-        Built with <a href="https://github.io/" target="_blank" rel="noopener">Amazon</a> <br />
-        主题 <b><a href="https://github.com/" target="_blank" rel="noopener" data-version="3.16.0">Shadow</a></b> 由 <a href="https://chatbot.theb.ai/" target="_blank" rel="noopener">Chat</a> 设计
-    </section>
+    
 </footer>
-
 
     
 <div class="pswp" tabindex="-1" role="dialog" aria-hidden="true">
