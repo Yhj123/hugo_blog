@@ -7,7 +7,7 @@
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
         <lastBuildDate>Tue, 28 May 2019 00:00:00 +0000</lastBuildDate><atom:link href="/page/index.xml" rel="self" type="application/rss+xml" /><item>
-        <title>Archives</title>
+        <title>archives</title>
         <link>/archives/</link>
         <pubDate>Tue, 28 May 2019 00:00:00 +0000</pubDate>
         
@@ -21,6 +21,14 @@
         
         <guid>/about/</guid>
         <description>&lt;iframe width=&#34;100%&#34; height=&#34;300&#34; scrolling=&#34;no&#34; frameborder=&#34;no&#34; allow=&#34;autoplay&#34; src=&#34;https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/playlists/1662967215&amp;color=%23ff5500&amp;auto_play=false&amp;hide_related=false&amp;show_comments=true&amp;show_user=true&amp;show_reposts=false&amp;show_teaser=true&amp;visual=true&#34;&gt;&lt;/iframe&gt;&lt;div style=&#34;font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;&#34;&gt;&lt;a href=&#34;https://soundcloud.com/hj-y-63787349&#34; title=&#34;hj y&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;hj y&lt;/a&gt; · &lt;a href=&#34;https://soundcloud.com/hj-y-63787349/sets/bcg7wn3mf2zl&#34; title=&#34;喜欢&#34; target=&#34;_blank&#34; style=&#34;color: #cccccc; text-decoration: none;&#34;&gt;喜欢&lt;/a&gt;&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title></title>
+        <link>/</link>
+        <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+        
+        <guid>/</guid>
+        <description></description>
         </item>
         <item>
         <title>Links</title>
@@ -58,7 +66,7 @@
 </description>
         </item>
         <item>
-        <title>Search</title>
+        <title>search</title>
         <link>/search/</link>
         <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
         

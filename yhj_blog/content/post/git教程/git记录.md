@@ -2,7 +2,7 @@
 title: "Git记录"
 date: 2023-05-25T19:24:26+08:00
 categories : [ "git" ]
-draft: true
+draft: false
 ---
 
 ## 取消文件追踪

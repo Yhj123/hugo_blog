@@ -39,4 +39,26 @@ git tag -d v0.9
 ```shell
 git push --delete origin v0.9
 ```
-
+#### 删除远程仓库名为 "develop" 的分支
+```shell
+git push origin --delete develop
+``` 
+## 克隆
+#### 克隆远程仓库标签为 "v1.6.5.7" 的分支
+```shell
+git clone --branch v1.6.5.7 [远程仓库地址]
+```
+> 另一种方法
+1. 将远程代码拉取到本地
+```shell
+git clone -b develop git@gitlab.yopoint.vip:ac/YoPointSwift.git
+```
+2. 查看 tag
+```shell
+git tag
+```
+3. 检出tag
+```shell
+git checkout tagName
+```
+> 如果想修改 tag 下的代码，切记不要直接在此标签下提交代码,需要单独创建一个分支, 在分支上修改并提交.

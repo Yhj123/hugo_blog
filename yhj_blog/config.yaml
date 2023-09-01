@@ -37,7 +37,7 @@ DefaultContentLanguage: en
 
 # Set hasCJKLanguage to true if DefaultContentLanguage is in [zh-cn ja ko]
 # This will make .Summary and .WordCount behave correctly for CJK languages.
-hasCJKLanguage: false
+hasCJKLanguage: true
 
 permalinks:
     post: /p/:slug/
@@ -50,6 +50,8 @@ params:
     rssFullContent: true
     favicon:  # e.g.: favicon placed in `static/favicon.ico` of your site folder, then set this field to `/favicon.ico` (`/` is necessary)
 
+    fancybox: true
+    
     footer:
         since: 2020
         customText:
@@ -205,6 +207,12 @@ menu:
           url: https://yhj123.github.io/zh/
           params:
               icon: brand-wikizh
+
+        - identifier: read
+          name: read
+          url: http://72.18.81.58:8083/
+          params:
+              icon: brand-read
 
         - identifier: wiki_en
           name: wiki_en

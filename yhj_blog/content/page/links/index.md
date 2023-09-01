@@ -21,9 +21,18 @@ links:
   - title: csblog
     description: 技术网站
     website: https://csblog.cc/
+  - title: 音视频文章
+    description: 技术网站
+    website: https://avdancedu.com/
   - title: Hacker News
     description: 技术网站
     website: https://news.ycombinator.com/
+  - title: go相关
+    description: 技术网站
+    website: http://www.topgoer.com/
+  - title: 博客
+    description: 博客
+    website: https://zerovip.github.io/zh/82988/
   - title: 经济学人
     description: 英文杂志
     website: https://www.economist.com/

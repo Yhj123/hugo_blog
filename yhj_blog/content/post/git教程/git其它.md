@@ -2,7 +2,7 @@
 title: "Git其它"
 date: 2023-05-20T10:22:37+08:00
 categories : [ "git" ]
-draft: true
+draft: false
 ---
 
 ## 查看分支图
