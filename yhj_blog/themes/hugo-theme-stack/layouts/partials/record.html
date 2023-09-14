@@ -1,0 +1,24 @@
+{{ if eq (.Param "menu.main.identifier") "book" }}
+<!-- 下面是读过的书的记录 -->
+    <ul>
+        {{ range $.Site.Data.book.title }}
+        <li>{{ . }}</li>
+        {{ end }}
+    </ul>
+
+{{ else if eq (.Param "menu.main.identifier") "film" }}
+<!-- 下面是看过的电影的记录 -->
+    <tbody>
+        <tr>
+            {{ range $.Site.Data.film.title }}
+                {{ . }}
+            {{ end }}
+            {{ range $.Site.Data.film.link}}
+                {{ . }}
+            {{ end }}
+            
+        </tr>
+    </tbody>
+
+{{ end }}
+
