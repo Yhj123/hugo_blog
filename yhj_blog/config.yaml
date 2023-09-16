@@ -214,6 +214,12 @@ menu:
           params:
               icon: brand-read
 
+        - identifier: video
+          name: video
+          url: http://72.18.81.58:88/
+          params:
+              icon: brand-video
+
         - identifier: wiki_en
           name: wiki_en
           url: https://yhj123.github.io/en/

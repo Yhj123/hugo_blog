@@ -1,0 +1,10 @@
+<details class="custom-details">
+  <summary class="custom-summary">
+    <font size="4" color="orange">
+      {{ with .Get 0}}{{.}}{{else}}click to expand{{ end }}
+    </font>
+  </summary>
+  <pre class="custom-pre">
+  {{.Inner}}
+  </pre>
+</details>

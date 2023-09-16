@@ -1,6 +1,7 @@
 ---
 title: "Git子模块"
 date: 2023-09-02T02:13:33+08:00
+categories : [ "git" ]
 draft: false
 ---
 

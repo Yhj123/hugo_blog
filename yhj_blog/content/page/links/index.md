@@ -27,9 +27,21 @@ links:
   - title: Hacker News
     description: 技术网站
     website: https://news.ycombinator.com/
+  - title: stackoverflow
+    description: 技术网站
+    website: https://stackoverflow.com/questions
+  - title: 玩安卓
+    description: 技术网站
+    website: https://wanandroid.com/
+  - title: 飞云脚本
+    description: autojs
+    website: http://www.feiyunjs.com/
   - title: go相关
     description: 技术网站
     website: http://www.topgoer.com/
+  - title: 书栈网
+    description: 技术书籍
+    website: https://www.bookstack.cn/
   - title: 博客
     description: 博客
     website: https://zerovip.github.io/zh/82988/
