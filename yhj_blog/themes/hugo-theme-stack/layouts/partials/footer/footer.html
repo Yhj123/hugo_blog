@@ -1,23 +1,36 @@
 {{- $ThemeVersion := "3.16.0" -}}
+
 <footer class="site-footer">
+   {{$scratch := newScratch}}
+{{ range (where .Site.Pages "Kind" "page" )}}
+    {{$scratch.Add "total" .WordCount}}
+{{ end }}
+
     <section class="copyright">
         &copy; 
         {{ if and (.Site.Params.footer.since) (ne .Site.Params.footer.since (int (now.Format "2006"))) }}
             {{ .Site.Params.footer.since }} - 
         {{ end }}
-        {{ now.Format "2006" }} {{ .Site.Title }}
+        <!-- {{ now.Format "2006" }} {{ .Site.Title }} -->
+        {{ now.Format "2006" }} <a href="https://www.yhjedward.com">{{ .Site.Title }}</a>
+        <span class="with-love">
+            <i class="fas fa-heart"></i>
+        </span>
+        </br>
+
+    {{$var :=  $scratch.Get "total"}}{{$var = math.Ceil $var}} 共 {{ len (where .Site.RegularPages "Section" "post") }}篇文章</br><span><p>
+
     </section>
     
-    <!-- <section class="powerby">
+    <section class="powerby">
         {{ with .Site.Params.footer.customText }}
             {{ . | safeHTML }} <br/>
         {{ end }}
 
-        {{- $Generator := `<a href="https://github.io/" target="_blank" rel="noopener">Amazon</a>` -}}
-        {{- $Theme := printf `<b><a href="https://github.com/" target="_blank" rel="noopener" data-version="%s">Shadow</a></b>` $ThemeVersion -}}
-        {{- $DesignedBy := `<a href="https://chatbot.theb.ai/" target="_blank" rel="noopener">Chat</a>` -}}
+        {{- $Theme := printf `<b><a href="https://github.com/CaiJimmy/hugo-theme-stack" target="_blank" rel="noopener" data-version="%s">Stack</a></b>` $ThemeVersion -}}
+        {{- $DesignedBy := `<a href="https://jimmycai.com" target="_blank" rel="noopener">Jimmy</a>` -}}
 
-        {{ T "footer.builtWith" (dict "Generator" $Generator) | safeHTML }} <br />
         {{ T "footer.designedBy" (dict "Theme" $Theme "DesignedBy" $DesignedBy) | safeHTML }}
-    </section> -->
+    </section>
+
 </footer>

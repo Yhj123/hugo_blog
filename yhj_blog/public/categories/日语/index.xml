@@ -1,0 +1,219 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>日语 on WHO</title>
+        <link>/categories/%E6%97%A5%E8%AF%AD/</link>
+        <description>Recent content in 日语 on WHO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 18 Sep 2023 10:10:20 +0800</lastBuildDate><atom:link href="/categories/%E6%97%A5%E8%AF%AD/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>发音</title>
+        <link>/p/%E5%8F%91%E9%9F%B3/</link>
+        <pubDate>Mon, 18 Sep 2023 10:10:20 +0800</pubDate>
+        
+        <guid>/p/%E5%8F%91%E9%9F%B3/</guid>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>句子</title>
+        <link>/p/%E5%8F%A5%E5%AD%90/</link>
+        <pubDate>Sat, 16 Sep 2023 09:41:08 +0800</pubDate>
+        
+        <guid>/p/%E5%8F%A5%E5%AD%90/</guid>
+        <description>&lt;h2 id=&#34;肯定形式&#34;&gt;肯定形式&lt;/h2&gt;
+&lt;p&gt;は + です
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;hello&lt;/p&gt;
+  &lt;footer style=&#34;text-align:right&#34;&gt;
+    &lt;strong&gt;&lt;/strong&gt;
+    
+      
+        
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;否定形式&#34;&gt;否定形式&lt;/h2&gt;
+&lt;p&gt;は + では + ありません&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;hello&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;疑问句&#34;&gt;疑问句&lt;/h2&gt;
+&lt;p&gt;は + ですか
+{{}}&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>词汇</title>
+        <link>/p/%E8%AF%8D%E6%B1%87/</link>
+        <pubDate>Sat, 16 Sep 2023 09:40:55 +0800</pubDate>
+        
+        <guid>/p/%E8%AF%8D%E6%B1%87/</guid>
+        <description>&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      影视用语
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+视频
+	
+&lt;span class=&#34;spoiler&#34; &gt; どうが
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=どうが&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+电视剧
+	
+&lt;span class=&#34;spoiler&#34; &gt; ドラマ
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=ドラマ&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+ &lt;/br&gt;
+映画
+	
+&lt;span class=&#34;spoiler&#34; &gt; えいが
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=えいが&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+动漫
+	
+&lt;span class=&#34;spoiler&#34; &gt; アニメ
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=アニメ&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+
+&lt;/details&gt;
+</description>
+        </item>
+        <item>
+        <title>五十音图</title>
+        <link>/p/%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE/</link>
+        <pubDate>Fri, 01 Sep 2023 17:53:41 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE/</guid>
+        <description>&lt;img src=&#34;/img/日语/五十音图.jpg&#34; width=&#34;50&#34; height=&#34;50&#34; data-fancybox=&#34;gallery&#34;&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/_YRIyWXfRa0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;区别-平假名与片假名&#34;&gt;区别: 平假名与片假名&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;平假名: 用来书写原生的日本词、虚词、动词结尾和用来书写那些用正式批准的通用字无法书写的中国外来语.从汉字的草书演变而来,为了书写和歌、物语而诞生.&lt;/li&gt;
+&lt;li&gt;片假名: 主要用于书写外来语、拟声拟态词，人名、地名和专业术语，或者是表示着重强调等.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>视频</title>
+        <link>/p/%E8%A7%86%E9%A2%91/</link>
+        <pubDate>Fri, 25 Aug 2023 15:25:45 +0800</pubDate>
+        
+        <guid>/p/%E8%A7%86%E9%A2%91/</guid>
+        <description>&lt;h2 id=&#34;视频-日本历史&#34;&gt;视频: 日本历史&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/iseyXDTCOR4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>语法</title>
+        <link>/p/%E8%AF%AD%E6%B3%95/</link>
+        <pubDate>Fri, 18 Aug 2023 09:06:04 +0800</pubDate>
+        
+        <guid>/p/%E8%AF%AD%E6%B3%95/</guid>
+        <description>&lt;h2 id=&#34;文法&#34;&gt;文法&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/6OYluEuz1tU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

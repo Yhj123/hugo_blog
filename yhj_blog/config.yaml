@@ -214,6 +214,12 @@ menu:
           params:
               icon: brand-read
 
+        - identifier: weixinread
+          name: read
+          url: https://weread.qq.com/
+          params:
+              icon: brand-weixin
+
         - identifier: video
           name: video
           url: http://72.18.81.58:88/

@@ -45,6 +45,9 @@ links:
   - title: 博客
     description: 博客
     website: https://zerovip.github.io/zh/82988/
+  - title: hackerrank
+    description: 技术网站
+    website: https://www.hackerrank.com/
   - title: 经济学人
     description: 英文杂志
     website: https://www.economist.com/

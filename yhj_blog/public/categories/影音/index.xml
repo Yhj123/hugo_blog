@@ -1,0 +1,161 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>影音 on WHO</title>
+        <link>/categories/%E5%BD%B1%E9%9F%B3/</link>
+        <description>Recent content in 影音 on WHO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Tue, 15 Aug 2023 20:42:19 +0800</lastBuildDate><atom:link href="/categories/%E5%BD%B1%E9%9F%B3/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>五星大饭店</title>
+        <link>/p/%E4%BA%94%E6%98%9F%E5%A4%A7%E9%A5%AD%E5%BA%97/</link>
+        <pubDate>Tue, 15 Aug 2023 20:42:19 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%94%E6%98%9F%E5%A4%A7%E9%A5%AD%E5%BA%97/</guid>
+        <description>&lt;p&gt;
+&lt;span class=&#34;spoiler&#34; &gt; 隐藏文本，支持HTML代码 &lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+
+&lt;span class=&#34;spoiler&#34; &gt; 隐藏文字 &lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+&lt;/p&gt;
+&lt;mark&gt;这是一个重点标记&lt;/mark&gt;
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;死亡不是一切的终点，遗忘才是&lt;/p&gt;
+  &lt;footer style=&#34;text-align:right&#34;&gt;
+    &lt;strong&gt;可小果电影&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://www.jubenz.com/movie/coco-36/1/&#34; title=&#34;https://www.jubenz.com/movie/coco-36/1/&#34; rel=&#34;noopener noreferrer&#34;&gt;《寻梦环游记》&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.w3schools.com/html/mov_bbb.mp4&#34; data-fancybox=&#34;video-gallery&#34;&gt;Click me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=873583470&amp;bvid=BV19K4y1c7Bt&amp;cid=1268396510&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+bilibili
+&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;data:text/html,&lt;p&gt;Some HTML&lt;/p&gt;&#34; data-fancybox data-type=&#34;iframe&#34;&gt;
+  Dynamic iframe content
+&lt;/a&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      click to expand
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+hello
+
+&lt;/details&gt;
+&lt;script&gt;!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src=&#34;https://rumble.com/embedJS/u2ts6kg&#34;+(arguments[1].video?&#39;.&#39;+arguments[1].video:&#39;&#39;)+&#34;/?url=&#34;+encodeURIComponent(location.href)+&#34;&amp;args=&#34;+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, &#34;script&#34;, &#34;Rumble&#34;);
+&lt;/script&gt;
+&lt;div id=&#34;rumble_v3fpl1u&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rumble_v3fpl1u&#34;});
+&lt;/script&gt;
+
+&lt;div class=&#34;notice notice-info&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(30, 80%, 70%)&#34;&gt;&lt;path d=&#34;M256 8a248 248 0 100 496 248 248 0 000-496zm0 110a42 42 0 110 84 42 42 0 010-84zm56 254c0 7-5 12-12 12h-88c-7 0-12-5-12-12v-24c0-7 5-12 12-12h12v-64h-12c-7 0-12-5-12-12v-24c0-7 5-12 12-12h64c7 0 12 5 12 12v100h12c7 0 12 5 12 12v24z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-warning&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 576 512&#34; fill=&#34;hsl(0, 65%, 65%)&#34;&gt;&lt;path d=&#34;M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zM124 296c-6.6.0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h264c6.6.0 12 5.4 12 12v56c0 6.6-5.4 12-12 12H124z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-tip&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(140, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-note&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(200, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&#34;github&#34;&gt;
+    &lt;div class=&#34;logo&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon github-icon&#34; viewBox=&#34;0 0 16 16&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; clip-rule=&#34;evenodd&#34; d=&#34;M2 2.5C2 1.83696 2.26339 1.20107 2.73223 0.732233C3.20108 0.263392 3.83696 0 4.5 0L13.25 0C13.4489 0 13.6397 0.0790176 13.7803 0.21967C13.921 0.360322 14 0.551088 14 0.75V13.25C14 13.4489 13.921 13.6397 13.7803 13.7803C13.6397 13.921 13.4489 14 13.25 14H10.75C10.5511 14 10.3603 13.921 10.2197 13.7803C10.079 13.6397 10 13.4489 10 13.25C10 13.0511 10.079 12.8603 10.2197 12.7197C10.3603 12.579 10.5511 12.5 10.75 12.5H12.5V10.5H4.5C4.30308 10.5 4.11056 10.5582 3.94657 10.6672C3.78257 10.7762 3.65442 10.9312 3.57816 11.1128C3.50191 11.2943 3.48096 11.4943 3.51793 11.6878C3.5549 11.8812 3.64816 12.0594 3.786 12.2C3.92524 12.3422 4.0023 12.5338 4.00024 12.7328C3.99818 12.9318 3.91716 13.1218 3.775 13.261C3.63285 13.4002 3.4412 13.4773 3.24222 13.4752C3.04325 13.4732 2.85324 13.3922 2.714 13.25C2.25571 12.7829 1.99929 12.1544 2 11.5V2.5ZM12.5 1.5V9H4.5C4.144 9 3.806 9.074 3.5 9.208V2.5C3.5 2.23478 3.60536 1.98043 3.79289 1.79289C3.98043 1.60536 4.23478 1.5 4.5 1.5H12.5ZM5 12.25V15.5C5 15.5464 5.01293 15.5919 5.03734 15.6314C5.06175 15.6709 5.09667 15.7028 5.1382 15.7236C5.17972 15.7444 5.22621 15.7532 5.27245 15.749C5.31869 15.7448 5.36286 15.7279 5.4 15.7L6.85 14.613C6.89328 14.5805 6.94591 14.563 7 14.563C7.05409 14.563 7.10673 14.5805 7.15 14.613L8.6 15.7C8.63714 15.7279 8.68131 15.7448 8.72755 15.749C8.77379 15.7532 8.82028 15.7444 8.8618 15.7236C8.90333 15.7028 8.93826 15.6709 8.96266 15.6314C8.98707 15.5919 9 15.5464 9 15.5V12.25C9 12.1837 8.97366 12.1201 8.92678 12.0732C8.87989 12.0263 8.81631 12 8.75 12H5.25C5.1837 12 5.12011 12.0263 5.07322 12.0732C5.02634 12.1201 5 12.1837 5 12.25Z&#34;/&gt;&lt;/svg&gt;
+        &lt;a class=&#34;name&#34; href=https://github.com/crazycodeboy/awesome-flutter-cn target=&#34;_blank&#34;&gt;flutter&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;description&#34;&gt;Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK&lt;/div&gt; 
+    &lt;div class=&#34;language&#34;&gt;
+        &lt;span class=&#34;language-color&#34; style=&#34;background-color: #00EE00&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;language-name&#34;&gt;Android&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;amazon-widget&#34;&gt;
+  &lt;a href=&#34;https://www.amazon.co.jp/gp/product/7508662407/?tag=&#34;&gt;&lt;/a&gt;
+  &lt;div class=&#34;amazon-widget-img&#34;&gt;
+    &lt;img src=&#34;//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=JP&amp;ASIN=7508662407&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL350_&amp;tag=&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;amazon-widget-info&#34;&gt;
+    &lt;span class=&#34;amazon-widget-title&#34;&gt;
+      成为乔布斯
+    &lt;/span&gt;
+    &lt;span class=&#34;amazon-widget-via&#34;&gt;
+      &lt;img src=&#34;https://www.amazon.co.jp/favicon.ico&#34; /&gt;
+      amazon.co.jp
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt; &lt;div class=&#34;amazon-widget&#34;&gt;
+   &lt;a href=&#34;https://www.amazon.co.jp/gp/product/7122331350/?tag=&#34;&gt;&lt;/a&gt;
+   &lt;div class=&#34;amazon-widget-img&#34;&gt;
+     &lt;img src=&#34;//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=JP&amp;ASIN=7122331350&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL350_&amp;tag=&#34; /&gt;
+   &lt;/div&gt;
+   &lt;div class=&#34;amazon-widget-info&#34;&gt;
+     &lt;span class=&#34;amazon-widget-title&#34;&gt;
+       电子
+     &lt;/span&gt;
+     &lt;span class=&#34;amazon-widget-via&#34;&gt;
+       &lt;img src=&#34;https://www.amazon.co.jp/favicon.ico&#34; /&gt;
+       amazon.co.jp
+     &lt;/span&gt;
+   &lt;/div&gt;
+ &lt;/div&gt;&lt;/p&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

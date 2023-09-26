@@ -1,6 +1,6 @@
 {{ define "body-class" }}
     article-page
-    {{/* 
+    {{/*
         Enable the right sidebar if
             - Widget different from 'TOC' is enabled
             - TOC is enabled and not empty
@@ -21,6 +21,7 @@
     {{- .Scratch.Set "TOCEnabled" (and $TOCEnabled $hasTOC) -}}
     
     {{- .Scratch.Set "hasWidget" (or $HasWidgetNotTOC (and $TOCEnabled $hasTOC)) -}}
+
 {{ end }}
 
 {{ define "main" }}

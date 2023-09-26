@@ -2,6 +2,7 @@ footer.site-footer {
     padding: 20px 0 var(--section-separation) 0;
     font-size: 1.4rem;
     line-height: 1.75;
+    transition: 23.2s ease-in-out;
 
     &:before {
         content: "";
@@ -10,6 +11,14 @@ footer.site-footer {
         width: 50px;
         background: var(--body-text-color);
         margin-bottom: 20px;
+    }
+
+    .with-love {
+        position:relative;
+        color: #f06292;
+        display: inline-block;
+        margin: 0 5px;
+        animation: icon-animate 1.3s ease-in-out infinite;
     }
 
     .copyright {

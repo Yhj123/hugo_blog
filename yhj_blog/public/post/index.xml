@@ -1,0 +1,1581 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>Posts on WHO</title>
+        <link>/post/</link>
+        <description>Recent content in Posts on WHO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 25 Sep 2023 17:14:45 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>场效应晶体管</title>
+        <link>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</link>
+        <pubDate>Mon, 25 Sep 2023 17:14:45 +0800</pubDate>
+        
+        <guid>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h2&gt;
+&lt;h3 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;结型场效应晶体管(JFET) 和 绝缘栅型场效应晶体管(MOSFET).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h4&gt;
+&lt;h5 id=&#34;结构&#34;&gt;结构&lt;/h5&gt;
+&lt;img src=&#34;/img/电子电路/场效应晶体管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;场效应管识别&#34;&gt;场效应管识别&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>GPIO输出模式</title>
+        <link>/p/gpio%E8%BE%93%E5%87%BA%E6%A8%A1%E5%BC%8F/</link>
+        <pubDate>Mon, 25 Sep 2023 14:23:34 +0800</pubDate>
+        
+        <guid>/p/gpio%E8%BE%93%E5%87%BA%E6%A8%A1%E5%BC%8F/</guid>
+        <description>&lt;h2 id=&#34;gpio-输出模式种类&#34;&gt;GPIO 输出模式种类&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=611103706&amp;bvid=BV1D84y1c7GV&amp;cid=1054485302&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;100%&#34; data-height=&#34;1000&#34;&gt;
+GPIO输出模式_1
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=715989001&amp;bvid=BV17Q4y197Zh&amp;cid=348072405&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;100%&#34; data-height=&#34;1000&#34;&gt;
+GPIO输出模式_2
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=465277691&amp;bvid=BV1zL411L7sj&amp;cid=475640355&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;100%&#34; data-height=&#34;1000&#34;&gt;
+GPIO输出模式_3
+&lt;/a&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;浮空/高阻态模式&lt;/li&gt;
+&lt;li&gt;推挽输出&lt;/li&gt;
+&lt;li&gt;开漏输出&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>三极管</title>
+        <link>/p/%E4%B8%89%E6%9E%81%E7%AE%A1/</link>
+        <pubDate>Fri, 22 Sep 2023 09:13:42 +0800</pubDate>
+        
+        <guid>/p/%E4%B8%89%E6%9E%81%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;三极管&#34;&gt;三极管&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=701717994&amp;bvid=BV1Ym4y1x733&amp;cid=1217352249&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+晶体管前传
+&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;晶体管分类&#34;&gt;晶体管分类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;晶体管有两种分类: 双极结型晶体管(Bipolar Junction Transistor: 简称 BJT) 和 场效应晶体管(FET).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AcxDiesy-nI&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+  三极管介绍
+&lt;/a&gt;
+&lt;img src=&#34;/img/电子电路/三极管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;三极管识别&#34;&gt;三极管识别&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/三极管识别_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/三极管识别_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;三极管特性&#34;&gt;三极管特性&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/三极管特性曲线.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;三极管特性曲线解析&#34;&gt;三极管特性曲线解析&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=354475442&amp;bvid=BV1wX4y1k7rx&amp;cid=1079081150&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+三极管特性曲线解析
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1je411M72P&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1dG4y1Z7rj&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在三极管内部，Uce的主要作用是保证集电结反偏。当Uce很小，不能使集电结反偏时，三极管完全等同于二极管.&lt;/li&gt;
+&lt;li&gt;在 Uce 使集电结反偏后, 集电结内电场增强, 能将扩散到基区自由电子中的绝大部分拉入集电区, 与 Uce 很小(或不存在)相比, Ib 增大了. Uce并不能改变特性曲线的形状, 只能使曲线下移一段距离.&lt;/li&gt;
+&lt;li&gt;当基极电流 Ib 不变时, 集电极电流 Ie 随 Uce 的变化很小，如当 Ib = 30 μA 时，Uce 从 5V 变到 10V, Ie 稍有增加.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;三极管作用&#34;&gt;三极管作用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;电流放大作用&lt;/li&gt;
+&lt;li&gt;开关功能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>发音</title>
+        <link>/p/%E5%8F%91%E9%9F%B3/</link>
+        <pubDate>Mon, 18 Sep 2023 10:10:20 +0800</pubDate>
+        
+        <guid>/p/%E5%8F%91%E9%9F%B3/</guid>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>句子</title>
+        <link>/p/%E5%8F%A5%E5%AD%90/</link>
+        <pubDate>Sat, 16 Sep 2023 09:41:08 +0800</pubDate>
+        
+        <guid>/p/%E5%8F%A5%E5%AD%90/</guid>
+        <description>&lt;h2 id=&#34;肯定形式&#34;&gt;肯定形式&lt;/h2&gt;
+&lt;p&gt;は + です
+
+
+
+
+
+
+
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;hello&lt;/p&gt;
+  &lt;footer style=&#34;text-align:right&#34;&gt;
+    &lt;strong&gt;&lt;/strong&gt;
+    
+      
+        
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+&lt;/p&gt;
+&lt;h2 id=&#34;否定形式&#34;&gt;否定形式&lt;/h2&gt;
+&lt;p&gt;は + では + ありません&lt;/p&gt;
+&lt;blockquote&gt;
+&lt;p&gt;hello&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h2 id=&#34;疑问句&#34;&gt;疑问句&lt;/h2&gt;
+&lt;p&gt;は + ですか
+{{}}&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>词汇</title>
+        <link>/p/%E8%AF%8D%E6%B1%87/</link>
+        <pubDate>Sat, 16 Sep 2023 09:40:55 +0800</pubDate>
+        
+        <guid>/p/%E8%AF%8D%E6%B1%87/</guid>
+        <description>&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      影视用语
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+视频
+	
+&lt;span class=&#34;spoiler&#34; &gt; どうが
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=どうが&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+电视剧
+	
+&lt;span class=&#34;spoiler&#34; &gt; ドラマ
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=ドラマ&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+ &lt;/br&gt;
+映画
+	
+&lt;span class=&#34;spoiler&#34; &gt; えいが
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=えいが&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+动漫
+	
+&lt;span class=&#34;spoiler&#34; &gt; アニメ
+		&lt;audio id=&#34;audio&#34; controls=&#34;&#34; preload=&#34;none&#34;&gt;
+      		&lt;source id=&#34;mp3&#34; src=&#34;http://dict.youdao.com/dictvoice?le=jap&amp;type=3&amp;audio=アニメ&#34;&gt;
+		&lt;/audio&gt;
+	&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+
+&lt;/details&gt;
+</description>
+        </item>
+        <item>
+        <title>Final关键字</title>
+        <link>/p/final%E5%85%B3%E9%94%AE%E5%AD%97/</link>
+        <pubDate>Fri, 15 Sep 2023 20:17:51 +0800</pubDate>
+        
+        <guid>/p/final%E5%85%B3%E9%94%AE%E5%AD%97/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>Git原理</title>
+        <link>/p/git%E5%8E%9F%E7%90%86/</link>
+        <pubDate>Thu, 14 Sep 2023 16:28:22 +0800</pubDate>
+        
+        <guid>/p/git%E5%8E%9F%E7%90%86/</guid>
+        <description>&lt;h2 id=&#34;视频&#34;&gt;视频&lt;/h2&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=35&amp;bvid=BV1ry4y1x7Le&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Const关键字</title>
+        <link>/p/const%E5%85%B3%E9%94%AE%E5%AD%97/</link>
+        <pubDate>Thu, 14 Sep 2023 16:23:29 +0800</pubDate>
+        
+        <guid>/p/const%E5%85%B3%E9%94%AE%E5%AD%97/</guid>
+        <description>&lt;h2 id=&#34;视频&#34;&gt;视频&lt;/h2&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=107&amp;bvid=BV12j411y7JX&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;const-在函数中的位置&#34;&gt;const 在函数中的位置&lt;/h2&gt;
+&lt;h4 id=&#34;const-返回值&#34;&gt;const 返回值&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;const 型返回值, 指函数的返回值为 const 变量.&lt;/li&gt;
+&lt;li&gt;函数返回 const 返回值, 主要用于函数返回 const 引用.&lt;/li&gt;
+&lt;li&gt;const 引用,相当于指向 const 变量的 const 指针, 其指向和指向的内容均不允许改变.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;12
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;13
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;14
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;15
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;16
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;17
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;18
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;19
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;#include&lt;/span&gt; &lt;span class=&#34;cpf&#34;&gt;&amp;lt;string&amp;gt;&lt;/span&gt;&lt;span class=&#34;cp&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;cp&#34;&gt;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;using&lt;/span&gt; &lt;span class=&#34;k&#34;&gt;namespace&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;std&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;k&#34;&gt;const&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;const_Version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;string&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;V0.0.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;n&#34;&gt;string&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;notConst_version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;string&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;&amp;amp;&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;v0.0.0&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;k&#34;&gt;return&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;nf&#34;&gt;main&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;kt&#34;&gt;int&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;argc&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;,&lt;/span&gt; &lt;span class=&#34;kt&#34;&gt;char&lt;/span&gt;&lt;span class=&#34;o&#34;&gt;*&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;argv&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;[])&lt;/span&gt; &lt;span class=&#34;p&#34;&gt;{&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;n&#34;&gt;string&lt;/span&gt; &lt;span class=&#34;n&#34;&gt;versionInfo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;    &lt;span class=&#34;c1&#34;&gt;// const_Version(versionInfo) = &amp;#34;V0.0.1&amp;#34;;  // 报错,返回 const 引用,不允许修改.
+&lt;/span&gt;&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;&lt;/span&gt;    &lt;span class=&#34;n&#34;&gt;notConst_version&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;(&lt;/span&gt;&lt;span class=&#34;n&#34;&gt;versionInfo&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;)&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;=&lt;/span&gt; &lt;span class=&#34;s&#34;&gt;&amp;#34;V0.0.1&amp;#34;&lt;/span&gt;&lt;span class=&#34;p&#34;&gt;;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;p&#34;&gt;}&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;const-成员函数&#34;&gt;const 成员函数&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;const 成员函数, 指此函数不应该修改任何成员变量.&lt;/li&gt;
+&lt;li&gt;const 成员函数, 不能够修改任何成员变量, 除非成员变量被 mutable 修饰符修饰.&lt;/li&gt;
+&lt;li&gt;传给 const 成员函数的 this 指针, 是指向 const 对象的 const 指针.在成员函数调用的过程中, 都有一个 this 指针被当做参数隐性地传递给成员函数.故成员变量不能够修改.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-c++&#34; data-lang=&#34;c++&#34;&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>STM32简介</title>
+        <link>/p/stm32%E7%AE%80%E4%BB%8B/</link>
+        <pubDate>Wed, 13 Sep 2023 09:17:38 +0800</pubDate>
+        
+        <guid>/p/stm32%E7%AE%80%E4%BB%8B/</guid>
+        <description>&lt;p&gt;
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=2&amp;bvid=BV1th411z7sn&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=3&amp;bvid=BV1th411z7sn&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1HM411b78E&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=4&amp;bvid=BV1th411z7sn&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s84y1h77Q&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/OEsMC7FkAGQ&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>Git子模块</title>
+        <link>/p/git%E5%AD%90%E6%A8%A1%E5%9D%97/</link>
+        <pubDate>Sat, 02 Sep 2023 02:13:33 +0800</pubDate>
+        
+        <guid>/p/git%E5%AD%90%E6%A8%A1%E5%9D%97/</guid>
+        <description>&lt;h2 id=&#34;git仓库有子仓库子仓库代码会上传不成功&#34;&gt;git仓库有子仓库,子仓库代码会上传不成功&lt;/h2&gt;
+&lt;h4 id=&#34;详细解决方法&#34;&gt;详细解决方法&lt;/h4&gt;
+&lt;ol&gt;
+&lt;li&gt;删除子仓库的 .git 文件夹&lt;/li&gt;
+&lt;li&gt;在子仓库的 .git 文件夹下执行以下命令&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git rm -rf --cached .
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;git包含子仓库&#34;&gt;git包含子仓库&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git submodule add &amp;lt;submodule_url&amp;gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;创建子模块的过程中,会自动将相关代码克隆到对应路径,但对于后续使用者而言,对于主项目使用普通的 clone 操作并不会拉取到子模块中的实际代码.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;克隆仓库的同时获取子模块&#34;&gt;克隆仓库的同时获取子模块&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone &amp;lt;主仓库地址&amp;gt; --recurse-submodules
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>五十音图</title>
+        <link>/p/%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE/</link>
+        <pubDate>Fri, 01 Sep 2023 17:53:41 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%94%E5%8D%81%E9%9F%B3%E5%9B%BE/</guid>
+        <description>&lt;img src=&#34;/img/日语/五十音图.jpg&#34; width=&#34;50&#34; height=&#34;50&#34; data-fancybox=&#34;gallery&#34;&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/_YRIyWXfRa0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;区别-平假名与片假名&#34;&gt;区别: 平假名与片假名&lt;/h2&gt;
+&lt;ol&gt;
+&lt;li&gt;平假名: 用来书写原生的日本词、虚词、动词结尾和用来书写那些用正式批准的通用字无法书写的中国外来语.从汉字的草书演变而来,为了书写和歌、物语而诞生.&lt;/li&gt;
+&lt;li&gt;片假名: 主要用于书写外来语、拟声拟态词，人名、地名和专业术语，或者是表示着重强调等.&lt;/li&gt;
+&lt;/ol&gt;
+</description>
+        </item>
+        <item>
+        <title>视频</title>
+        <link>/p/%E8%A7%86%E9%A2%91/</link>
+        <pubDate>Fri, 25 Aug 2023 15:25:45 +0800</pubDate>
+        
+        <guid>/p/%E8%A7%86%E9%A2%91/</guid>
+        <description>&lt;h2 id=&#34;视频-日本历史&#34;&gt;视频: 日本历史&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/iseyXDTCOR4&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+</description>
+        </item>
+        <item>
+        <title>三相电源</title>
+        <link>/p/%E4%B8%89%E7%9B%B8%E7%94%B5%E6%BA%90/</link>
+        <pubDate>Thu, 24 Aug 2023 11:18:25 +0800</pubDate>
+        
+        <guid>/p/%E4%B8%89%E7%9B%B8%E7%94%B5%E6%BA%90/</guid>
+        <description>&lt;p&gt;
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1884y147BL&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/4oRT7PoXSS0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Hey there guys.Paul here from TheEngineeringMindset.com.&lt;/p&gt;
+&lt;p&gt;In this video, we&amp;rsquo;re going to be looking at Three Phase Electricity. Now, this follows on from our series on electrical engineering, so if you haven&amp;rsquo;t watched the previous videos on this so far, then please do this first. Links are in the video description below.&lt;/p&gt;
+&lt;p&gt;Coming up, we&amp;rsquo;re going to be looking at how a simple AC generator works. Then we&amp;rsquo;ll look at a single phase power, then two phase power, and
+then finally three phase power. As well as how three phase power is used and why.Also why we don&amp;rsquo;t use four, five, six phase, et cetera power.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+接下来，我们将看到一个简单的交流发电机是如何工作的。然后我们来看看单相功率，然后是两相交流电，最后是三相交流电。如何使用三相交流电以及为什么使用三相交流电。为什么我们不使用四，五，六相交流电等等。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;So, first of all, let&amp;rsquo;s start with a simple AC generator. We&amp;rsquo;ll start with a single phase to understand what&amp;rsquo;s happening, and then we&amp;rsquo;ll add in other phases until we get to three phases.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+首先，让我们从一个简单的交流发电机开始. 我们将从单相开始了解发生了什么, 然后再添加其他相位, 直到我们达到三相.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Let&amp;rsquo;s take a copper wire and wrap it into two coils, then place these coils opposite each other within a stator, and connect the ends together to create a complete circuit.Now, if we place a magnet in-between these coils, and we start to rotate the magnet, then the magnetic field will disturb
+the free electrons within the copper wire, and an electrical current will begin to flow. We&amp;rsquo;ve covered how the free electrons flow in a previous video on the electricity basics. So, please check that out if have not so already. Links are in the video description below.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+让我们拿一根铜线，将其缠成两个线圈，然后将这些线圈相对放置在定子内，并连接两端以创建完整电路。现在，如果我们在这些线圈之间放置一个磁铁，并开始旋转磁铁，那么磁场将干扰铜线内的自由电子，电流将开始流动。我们已经在之前的电力基础视频中介绍了自由电子的流动。如果你还没有看过，请在下面的视频描述中查看链接。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;As the magnet rotates, so does the polarity of the magnetic field. As you can see in the illustration, the North and South pole of the magnet are rotating, and as they rotate, they pass across the coils, which force electrons to move. Notice the lines of the magnetic field
+are in these oval shapes on each side, and they meet through the central axis of the magnet.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+随着磁铁的旋转,磁场的极性也随之改变.如图所示,磁铁的南北极在旋转,随着它们的旋转,它们穿过线圈,强迫电子移动.请注意,磁场线在每一侧都呈椭圆形,并且它们通过磁铁的中心轴相遇.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;You can think of these as one side being positive, and the other side being negative, and in-between these ovals, the magnetic field is neutral. You can see that the intensity of the magnetic field increases on either side until the center, where it is at its maximum strength, and then it decreases again until it gets back to the neutral point.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+你可以把它们想象成一侧为正,另一侧为负,而在这些椭圆之间,磁场是中性的.你可以看到磁场的强度在两侧增加,直到中心,在那里它达到最大强度,然后再次减少,直到回到中性点.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;So, as this field rotates through the coil, the coil will experience an increasing intensity of the magnetic fields positive half. And during this increase, the free electrons within the copper coil will be pushed and begin to move faster
+and faster in one direction, up until it reaches the maximum point of the magnetic field. Then, as the magnetic field decreases, the flow of electrons will begin to slow all the way until it reaches the neutral point when no electrons will flow.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+因此，当这个场通过线圈旋转时，线圈将经历磁场正半周期的强度增加。在这个增加过程中，铜线圈内的自由电子将被推动，并开始向一个方向移动得越来越快，直到达到磁场的最大点。然后，随着磁场的减弱，电子流将开始减缓，直到达到中性点时不再流动。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Then comes the negative
+side of the magnetic field. And as this passes through, it&amp;rsquo;s going to pull the free electrons backwards. Again, the flow of electrons will flow faster and faster, up until the maximum point of the magnetic field. And then it will decrease back to the neutral point. This is why AC electricity is called alternating current. Because the current of the electrons alternates in direction, backwards and forwards, just like the tide of the sea. If we were to plot on a graph, the speed of the electrons flowing during the rotation, then we would get a sine wave pattern. In this sine wave, you can see that the electrons are stationary at the start, in the neutral zone, and then the speed increases through the positive half, all the way up to the maximum, and then it begins to decrease all the way back down to the neutral when no electrons will flow again. After this comes the negative half, where the electrons speed up to the maximum point and then they begin to slow down again until the magnet has completed one full rotation, where this will then repeat. This complete rotation is known as a cycle. And the number of cycles per second is called the frequency, which is measured in hertz. You&amp;rsquo;ve probably seen 50 hertz or 60 hertz written on your electrical goods. This means that the generator of the power station is completing a full rotation either 50 or 60 times per second. So the direction of the current is therefore also changing, 50 or 60 times per second also. When it is written on electrical products, this is just telling the user what type of electricity the product should be connected to. Now, coming back to the sine wave that we saw earlier, this plot of current also represents power. And if we connect a lamp into the circuit, we&amp;rsquo;ll see that it will increase in brightness all the way to the peak, that maximum point, then it decreases in brightness all the way down until the neutral point, where the lamp is actually off, because no current is flowing.But, then it will increase in brightness again as the negative half of the cycle comes through, and the electrons start to flow back through in the opposite direction until again it reaches the neutral point.So, at these points in the cycle, the lamp is not producing any light. And at these points in the cycle, the lamp is not very bright, so it&amp;rsquo;s not of much use.So if you&amp;rsquo;re working in a room and this lighting is flickering like this, it&amp;rsquo;s going to get really annoying. To improve this we can add another set of coils, or a second phase, into the generator. And we can do this by placing the coils 120 degrees rotation from the first set of coils, and then connect this up to another lamp. This rotation means that the coils will experience the changing intensity of the magnetic field at different points in time. The first coil reaches its maximum current and brightness, and as it decreases the second coil will begin to increase. This has improved the lighting, but there is still a gap which will cause a flicker. So we can add in a third set of coils, or a third phase, and this will mean that one of the lamps are almost always at its maximum brightness, so the lighting is nearly constant. There are still some small gaps between the phases and you could keep adding more and more phases to fill these gaps, but this will become more and more expensive to keep running all these cables. So three phase became widely accepted, as its a good compromise between power provided and cost to build. Now in the real world, you&amp;rsquo;re not going to use three different lamps, in different phases, to create lighting. The lamps in your homes are all on single phase, but they are flickering, it&amp;rsquo;s just that they are turning on and off so fast that the human eye can&amp;rsquo;t see it unless you record the lamp in slow motion. A more practical application is the power electrical induction motors and other commercial and industrial equipment, as three phase will provide a lot more power to these items, meaning you can pump water higher, or you can run motors faster, et cetera, et cetera. Power is generally generated and distributed in three phase, and transformers are used to change the voltage. If you want to learn how transformers work, we&amp;rsquo;ve also covered that too. Links are in the video description below. Now one of the interesting things with three phase power, is that you can connect all three phases and power large industrial equipment, or you can also connect only one of the phases and also power small electrical goods. This is generally how large tower blocks and skyscrapers distribute electricity through the building. The lift motors and air conditioning pumps, et cetera, will need three phase power, but the computers and office equipment will need single phase power. So they distribute three phase power up the building and they draw off from this as needed. The same occurs with the distribution of electricity across a city. Houses will be connected to only a single phase because they do not require much power, whereas a large building will be connected to a three phase supply as they will require a lot of power. Okay guys, that&amp;rsquo;s it for this video. Thank you very much for watching. I hope this has helped you and you&amp;rsquo;ve enjoyed it. If so, then please don&amp;rsquo;t forget to like, subscribe and share this video. And also follow us on Facebook, Twitter, Google+, Instagram, as well as our website TheEngineeringMindset.com.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>语法</title>
+        <link>/p/%E8%AF%AD%E6%B3%95/</link>
+        <pubDate>Fri, 18 Aug 2023 09:06:04 +0800</pubDate>
+        
+        <guid>/p/%E8%AF%AD%E6%B3%95/</guid>
+        <description>&lt;h2 id=&#34;文法&#34;&gt;文法&lt;/h2&gt;
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/6OYluEuz1tU&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>直流充电CAN报文解析</title>
+        <link>/p/%E7%9B%B4%E6%B5%81%E5%85%85%E7%94%B5can%E6%8A%A5%E6%96%87%E8%A7%A3%E6%9E%90/</link>
+        <pubDate>Thu, 17 Aug 2023 21:33:18 +0800</pubDate>
+        
+        <guid>/p/%E7%9B%B4%E6%B5%81%E5%85%85%E7%94%B5can%E6%8A%A5%E6%96%87%E8%A7%A3%E6%9E%90/</guid>
+        <description>&lt;h2 id=&#34;直流充电&#34;&gt;直流充电&lt;/h2&gt;
+&lt;h4 id=&#34;27930协议can报文解析&#34;&gt;27930协议CAN报文解析&lt;/h4&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cnblogs.com/NewCindy/p/15826088.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Rsync</title>
+        <link>/p/rsync/</link>
+        <pubDate>Wed, 16 Aug 2023 13:59:32 +0800</pubDate>
+        
+        <guid>/p/rsync/</guid>
+        <description>&lt;h2 id=&#34;windows-增量同步到-linux&#34;&gt;windows 增量同步到 linux&lt;/h2&gt;
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1qL411A7hr&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/international24/article/details/107498925&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>五星大饭店</title>
+        <link>/p/%E4%BA%94%E6%98%9F%E5%A4%A7%E9%A5%AD%E5%BA%97/</link>
+        <pubDate>Tue, 15 Aug 2023 20:42:19 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%94%E6%98%9F%E5%A4%A7%E9%A5%AD%E5%BA%97/</guid>
+        <description>&lt;p&gt;
+&lt;span class=&#34;spoiler&#34; &gt; 隐藏文本，支持HTML代码 &lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+
+&lt;span class=&#34;spoiler&#34; &gt; 隐藏文字 &lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+&lt;/p&gt;
+&lt;mark&gt;这是一个重点标记&lt;/mark&gt;
+
+
+
+
+
+
+
+  
+  
+  
+  
+
+
+
+
+
+  
+
+
+&lt;blockquote&gt;
+  &lt;p&gt;死亡不是一切的终点，遗忘才是&lt;/p&gt;
+  &lt;footer style=&#34;text-align:right&#34;&gt;
+    &lt;strong&gt;可小果电影&lt;/strong&gt;
+    
+      
+        &lt;cite&gt;
+          &lt;a href=&#34;https://www.jubenz.com/movie/coco-36/1/&#34; title=&#34;https://www.jubenz.com/movie/coco-36/1/&#34; rel=&#34;noopener noreferrer&#34;&gt;《寻梦环游记》&lt;/a&gt; 
+        &lt;/cite&gt;
+      
+    
+  &lt;/footer&gt;
+&lt;/blockquote&gt;
+
+&lt;p&gt;&lt;a href=&#34;https://www.w3schools.com/html/mov_bbb.mp4&#34; data-fancybox=&#34;video-gallery&#34;&gt;Click me&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=873583470&amp;bvid=BV19K4y1c7Bt&amp;cid=1268396510&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+bilibili
+&lt;/a&gt;&lt;/p&gt;
+&lt;a href=&#34;data:text/html,&lt;p&gt;Some HTML&lt;/p&gt;&#34; data-fancybox data-type=&#34;iframe&#34;&gt;
+  Dynamic iframe content
+&lt;/a&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      click to expand
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+hello
+
+&lt;/details&gt;
+&lt;script&gt;!function(r,u,m,b,l,e){r._Rumble=b,r[b]||(r[b]=function(){(r[b]._=r[b]._||[]).push(arguments);if(r[b]._.length==1){l=u.createElement(m),e=u.getElementsByTagName(m)[0],l.async=1,l.src=&#34;https://rumble.com/embedJS/u2ts6kg&#34;+(arguments[1].video?&#39;.&#39;+arguments[1].video:&#39;&#39;)+&#34;/?url=&#34;+encodeURIComponent(location.href)+&#34;&amp;args=&#34;+encodeURIComponent(JSON.stringify([].slice.apply(arguments))),e.parentNode.insertBefore(l,e)}})}(window, document, &#34;script&#34;, &#34;Rumble&#34;);
+&lt;/script&gt;
+&lt;div id=&#34;rumble_v3fpl1u&#34;&gt;&lt;/div&gt;
+&lt;script&gt;
+Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rumble_v3fpl1u&#34;});
+&lt;/script&gt;
+
+&lt;div class=&#34;notice notice-info&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(30, 80%, 70%)&#34;&gt;&lt;path d=&#34;M256 8a248 248 0 100 496 248 248 0 000-496zm0 110a42 42 0 110 84 42 42 0 010-84zm56 254c0 7-5 12-12 12h-88c-7 0-12-5-12-12v-24c0-7 5-12 12-12h12v-64h-12c-7 0-12-5-12-12v-24c0-7 5-12 12-12h64c7 0 12 5 12 12v100h12c7 0 12 5 12 12v24z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-warning&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 576 512&#34; fill=&#34;hsl(0, 65%, 65%)&#34;&gt;&lt;path d=&#34;M256 8C119 8 8 119 8 256s111 248 248 248 248-111 248-248S393 8 256 8zM124 296c-6.6.0-12-5.4-12-12v-56c0-6.6 5.4-12 12-12h264c6.6.0 12 5.4 12 12v56c0 6.6-5.4 12-12 12H124z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-tip&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(140, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+
+&lt;div class=&#34;notice notice-note&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(200, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zm-248 50a46 46 0 100 92 46 46 0 000-92zm-44-165l8 136c0 6 5 11 12 11h48c7 0 12-5 12-11l8-136c0-7-5-13-12-13h-64c-7 0-12 6-12 13z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;p&gt;十里青山远，潮平路带沙。数声啼鸟怨年华。又是凄凉时候，在天涯。白露收残月，清风散晓霞。绿杨堤畔问荷花。记得年时沽酒，那人家。&lt;/p&gt;&lt;/div&gt;
+
+&lt;div class=&#34;github&#34;&gt;
+    &lt;div class=&#34;logo&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon github-icon&#34; viewBox=&#34;0 0 16 16&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; clip-rule=&#34;evenodd&#34; d=&#34;M2 2.5C2 1.83696 2.26339 1.20107 2.73223 0.732233C3.20108 0.263392 3.83696 0 4.5 0L13.25 0C13.4489 0 13.6397 0.0790176 13.7803 0.21967C13.921 0.360322 14 0.551088 14 0.75V13.25C14 13.4489 13.921 13.6397 13.7803 13.7803C13.6397 13.921 13.4489 14 13.25 14H10.75C10.5511 14 10.3603 13.921 10.2197 13.7803C10.079 13.6397 10 13.4489 10 13.25C10 13.0511 10.079 12.8603 10.2197 12.7197C10.3603 12.579 10.5511 12.5 10.75 12.5H12.5V10.5H4.5C4.30308 10.5 4.11056 10.5582 3.94657 10.6672C3.78257 10.7762 3.65442 10.9312 3.57816 11.1128C3.50191 11.2943 3.48096 11.4943 3.51793 11.6878C3.5549 11.8812 3.64816 12.0594 3.786 12.2C3.92524 12.3422 4.0023 12.5338 4.00024 12.7328C3.99818 12.9318 3.91716 13.1218 3.775 13.261C3.63285 13.4002 3.4412 13.4773 3.24222 13.4752C3.04325 13.4732 2.85324 13.3922 2.714 13.25C2.25571 12.7829 1.99929 12.1544 2 11.5V2.5ZM12.5 1.5V9H4.5C4.144 9 3.806 9.074 3.5 9.208V2.5C3.5 2.23478 3.60536 1.98043 3.79289 1.79289C3.98043 1.60536 4.23478 1.5 4.5 1.5H12.5ZM5 12.25V15.5C5 15.5464 5.01293 15.5919 5.03734 15.6314C5.06175 15.6709 5.09667 15.7028 5.1382 15.7236C5.17972 15.7444 5.22621 15.7532 5.27245 15.749C5.31869 15.7448 5.36286 15.7279 5.4 15.7L6.85 14.613C6.89328 14.5805 6.94591 14.563 7 14.563C7.05409 14.563 7.10673 14.5805 7.15 14.613L8.6 15.7C8.63714 15.7279 8.68131 15.7448 8.72755 15.749C8.77379 15.7532 8.82028 15.7444 8.8618 15.7236C8.90333 15.7028 8.93826 15.6709 8.96266 15.6314C8.98707 15.5919 9 15.5464 9 15.5V12.25C9 12.1837 8.97366 12.1201 8.92678 12.0732C8.87989 12.0263 8.81631 12 8.75 12H5.25C5.1837 12 5.12011 12.0263 5.07322 12.0732C5.02634 12.1201 5 12.1837 5 12.25Z&#34;/&gt;&lt;/svg&gt;
+        &lt;a class=&#34;name&#34; href=https://github.com/crazycodeboy/awesome-flutter-cn target=&#34;_blank&#34;&gt;flutter&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;description&#34;&gt;Flutter是Google出品的一款用于开发高性能、高保真、跨平台App(Android iOS)的SDK&lt;/div&gt; 
+    &lt;div class=&#34;language&#34;&gt;
+        &lt;span class=&#34;language-color&#34; style=&#34;background-color: #00EE00&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;language-name&#34;&gt;Android&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+&lt;p&gt;&lt;div class=&#34;amazon-widget&#34;&gt;
+  &lt;a href=&#34;https://www.amazon.co.jp/gp/product/7508662407/?tag=&#34;&gt;&lt;/a&gt;
+  &lt;div class=&#34;amazon-widget-img&#34;&gt;
+    &lt;img src=&#34;//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=JP&amp;ASIN=7508662407&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL350_&amp;tag=&#34; /&gt;
+  &lt;/div&gt;
+  &lt;div class=&#34;amazon-widget-info&#34;&gt;
+    &lt;span class=&#34;amazon-widget-title&#34;&gt;
+      成为乔布斯
+    &lt;/span&gt;
+    &lt;span class=&#34;amazon-widget-via&#34;&gt;
+      &lt;img src=&#34;https://www.amazon.co.jp/favicon.ico&#34; /&gt;
+      amazon.co.jp
+    &lt;/span&gt;
+  &lt;/div&gt;
+&lt;/div&gt; &lt;div class=&#34;amazon-widget&#34;&gt;
+   &lt;a href=&#34;https://www.amazon.co.jp/gp/product/7122331350/?tag=&#34;&gt;&lt;/a&gt;
+   &lt;div class=&#34;amazon-widget-img&#34;&gt;
+     &lt;img src=&#34;//ws-fe.amazon-adsystem.com/widgets/q?_encoding=UTF8&amp;MarketPlace=JP&amp;ASIN=7122331350&amp;ServiceVersion=20070822&amp;ID=AsinImage&amp;WS=1&amp;Format=_SL350_&amp;tag=&#34; /&gt;
+   &lt;/div&gt;
+   &lt;div class=&#34;amazon-widget-info&#34;&gt;
+     &lt;span class=&#34;amazon-widget-title&#34;&gt;
+       电子
+     &lt;/span&gt;
+     &lt;span class=&#34;amazon-widget-via&#34;&gt;
+       &lt;img src=&#34;https://www.amazon.co.jp/favicon.ico&#34; /&gt;
+       amazon.co.jp
+     &lt;/span&gt;
+   &lt;/div&gt;
+ &lt;/div&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>函数指针</title>
+        <link>/p/%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88/</link>
+        <pubDate>Tue, 15 Aug 2023 16:55:49 +0800</pubDate>
+        
+        <guid>/p/%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88/</guid>
+        <description>&lt;h2 id=&#34;函数指针&#34;&gt;函数指针&lt;/h2&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/168627944&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/w3cnote/cpp-func-pointer.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>继承</title>
+        <link>/p/%E7%BB%A7%E6%89%BF/</link>
+        <pubDate>Tue, 15 Aug 2023 10:50:48 +0800</pubDate>
+        
+        <guid>/p/%E7%BB%A7%E6%89%BF/</guid>
+        <description>&lt;h2 id=&#34;继承&#34;&gt;继承&lt;/h2&gt;
+&lt;p&gt;&lt;img src=&#34;/img/cplusplus/override1.jpg&#34;
+	
+	
+	
+	loading=&#34;lazy&#34;
+	
+		alt=&#34;继承&#34;
+	
+	
+&gt;
+&lt;/p&gt;
+&lt;img src=&#34;/img/cplusplus/override1.jpg&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+&lt;/br&gt;
+</description>
+        </item>
+        <item>
+        <title>Git撤销</title>
+        <link>/p/git%E6%92%A4%E9%94%80/</link>
+        <pubDate>Tue, 15 Aug 2023 10:14:40 +0800</pubDate>
+        
+        <guid>/p/git%E6%92%A4%E9%94%80/</guid>
+        <description>&lt;h2 id=&#34;撤销-commit&#34;&gt;撤销 commit&lt;/h2&gt;
+&lt;h4 id=&#34;详细步骤&#34;&gt;详细步骤&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;git log命令查看提交信息,获取要撤销的版本号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;git reset &amp;ndash;mixed &amp;lt;版本号&amp;gt; 重置到指定版本的提交&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git reset --mixed &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;版本号&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;使用 mixed, 只会清空暂存区与本地库,工作区代码依然保留.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;使用 hard, 本地代码也会消失.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ul&gt;
+&lt;li&gt;git push origin master &amp;ndash;force 通过强制提交当前版本号到线上,以便达到撤销版本号的目的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;远程库地址别名&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;分支名&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --force
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;撤销-push&#34;&gt;撤销 push&lt;/h2&gt;
+&lt;h4 id=&#34;详细步骤-1&#34;&gt;详细步骤&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;git log命令查看提交信息,获取要撤销的版本号&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;git reset &amp;ndash;soft &amp;lt;版本号&amp;gt; 重置到指定版本的提交&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git reset --soft &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;版本号&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;git push origin master &amp;ndash;force 通过强制提交当前版本号到线上,以便达到撤销版本号的目的&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;远程库地址别名&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;分支名&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt; --force
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;修改代码提交&lt;/li&gt;
+&lt;/ul&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;3
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;注释&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jianshu.com/p/c2ec5f06cf1a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>纯虚函数</title>
+        <link>/p/%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0/</link>
+        <pubDate>Fri, 11 Aug 2023 09:43:02 +0800</pubDate>
+        
+        <guid>/p/%E7%BA%AF%E8%99%9A%E5%87%BD%E6%95%B0/</guid>
+        <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;当类中有了纯虚函数,这个类也被称为抽象类.抽象类无法实例化对象,子类必须重写抽象类中的纯虚函数,否则也属于抽象类无法实例化对象.&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>完美转发</title>
+        <link>/p/%E5%AE%8C%E7%BE%8E%E8%BD%AC%E5%8F%91/</link>
+        <pubDate>Thu, 15 Jun 2023 16:10:16 +0800</pubDate>
+        
+        <guid>/p/%E5%AE%8C%E7%BE%8E%E8%BD%AC%E5%8F%91/</guid>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>模版函数</title>
+        <link>/p/%E6%A8%A1%E7%89%88%E5%87%BD%E6%95%B0/</link>
+        <pubDate>Thu, 15 Jun 2023 16:09:14 +0800</pubDate>
+        
+        <guid>/p/%E6%A8%A1%E7%89%88%E5%87%BD%E6%95%B0/</guid>
+        <description>&lt;h2 id=&#34;教程&#34;&gt;教程&lt;/h2&gt;
+&lt;div class=&#34;github&#34;&gt;
+    &lt;div class=&#34;logo&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon github-icon&#34; viewBox=&#34;0 0 16 16&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; clip-rule=&#34;evenodd&#34; d=&#34;M2 2.5C2 1.83696 2.26339 1.20107 2.73223 0.732233C3.20108 0.263392 3.83696 0 4.5 0L13.25 0C13.4489 0 13.6397 0.0790176 13.7803 0.21967C13.921 0.360322 14 0.551088 14 0.75V13.25C14 13.4489 13.921 13.6397 13.7803 13.7803C13.6397 13.921 13.4489 14 13.25 14H10.75C10.5511 14 10.3603 13.921 10.2197 13.7803C10.079 13.6397 10 13.4489 10 13.25C10 13.0511 10.079 12.8603 10.2197 12.7197C10.3603 12.579 10.5511 12.5 10.75 12.5H12.5V10.5H4.5C4.30308 10.5 4.11056 10.5582 3.94657 10.6672C3.78257 10.7762 3.65442 10.9312 3.57816 11.1128C3.50191 11.2943 3.48096 11.4943 3.51793 11.6878C3.5549 11.8812 3.64816 12.0594 3.786 12.2C3.92524 12.3422 4.0023 12.5338 4.00024 12.7328C3.99818 12.9318 3.91716 13.1218 3.775 13.261C3.63285 13.4002 3.4412 13.4773 3.24222 13.4752C3.04325 13.4732 2.85324 13.3922 2.714 13.25C2.25571 12.7829 1.99929 12.1544 2 11.5V2.5ZM12.5 1.5V9H4.5C4.144 9 3.806 9.074 3.5 9.208V2.5C3.5 2.23478 3.60536 1.98043 3.79289 1.79289C3.98043 1.60536 4.23478 1.5 4.5 1.5H12.5ZM5 12.25V15.5C5 15.5464 5.01293 15.5919 5.03734 15.6314C5.06175 15.6709 5.09667 15.7028 5.1382 15.7236C5.17972 15.7444 5.22621 15.7532 5.27245 15.749C5.31869 15.7448 5.36286 15.7279 5.4 15.7L6.85 14.613C6.89328 14.5805 6.94591 14.563 7 14.563C7.05409 14.563 7.10673 14.5805 7.15 14.613L8.6 15.7C8.63714 15.7279 8.68131 15.7448 8.72755 15.749C8.77379 15.7532 8.82028 15.7444 8.8618 15.7236C8.90333 15.7028 8.93826 15.6709 8.96266 15.6314C8.98707 15.5919 9 15.5464 9 15.5V12.25C9 12.1837 8.97366 12.1201 8.92678 12.0732C8.87989 12.0263 8.81631 12 8.75 12H5.25C5.1837 12 5.12011 12.0263 5.07322 12.0732C5.02634 12.1201 5 12.1837 5 12.25Z&#34;/&gt;&lt;/svg&gt;
+        &lt;a class=&#34;name&#34; href=https://github.com/wuye9036/CppTemplateTutorial target=&#34;_blank&#34;&gt;函数模版&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;description&#34;&gt;C&amp;#43;&amp;#43; Template 进阶指南&lt;/div&gt; 
+    &lt;div class=&#34;language&#34;&gt;
+        &lt;span class=&#34;language-color&#34; style=&#34;background-color: #00EE00&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;language-name&#34;&gt;cplusplus&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
+        <title>二极管</title>
+        <link>/p/%E4%BA%8C%E6%9E%81%E7%AE%A1/</link>
+        <pubDate>Wed, 14 Jun 2023 12:02:51 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%8C%E6%9E%81%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;二极管&#34;&gt;二极管&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=532678437&amp;bvid=BV1Pu411N74Q&amp;cid=1245944692&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+二极管由来
+&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;二极管比较&#34;&gt;二极管比较&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;压降为 0.7V 的二极管，一般为硅管，一般硅管耐电流小，但耐电压高，频率特性较差；&lt;/li&gt;
+&lt;li&gt;压降为 0.1V 的二极管，一般为锗管，一般锗管耐电流大，但耐电压低，频率特性较好.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二极管分类&#34;&gt;二极管分类&lt;/h2&gt;
+&lt;h3 id=&#34;普通二极管&#34;&gt;普通二极管&lt;/h3&gt;
+&lt;h4 id=&#34;普通二极管特性&#34;&gt;普通二极管特性&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/二极管特性_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;恒流二极管&#34;&gt;恒流二极管&lt;/h3&gt;
+&lt;h3 id=&#34;肖特基二极管&#34;&gt;肖特基二极管&lt;/h3&gt;
+&lt;h3 id=&#34;快恢复二极管&#34;&gt;快恢复二极管&lt;/h3&gt;
+&lt;h3 id=&#34;瞬态电压抑制二极管tvs&#34;&gt;瞬态电压抑制二极管(TVS)&lt;/h3&gt;
+&lt;h3 id=&#34;齐纳二极管稳压二极管&#34;&gt;齐纳二极管(稳压二极管)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mmiHX_IzvDw&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox=&#34;video-gallery&#34;&gt;齐纳二极管&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;发光二极管&#34;&gt;发光二极管&lt;/h3&gt;
+&lt;h3 id=&#34;光电二极管&#34;&gt;光电二极管&lt;/h3&gt;
+&lt;h3 id=&#34;变容二极管&#34;&gt;变容二极管&lt;/h3&gt;
+&lt;h2 id=&#34;二极管的作用&#34;&gt;二极管的作用&lt;/h2&gt;
+&lt;h4 id=&#34;钳位作用&#34;&gt;钳位作用&lt;/h4&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+</description>
+        </item>
+        <item>
+        <title>Git记录</title>
+        <link>/p/git%E8%AE%B0%E5%BD%95/</link>
+        <pubDate>Thu, 25 May 2023 19:24:26 +0800</pubDate>
+        
+        <guid>/p/git%E8%AE%B0%E5%BD%95/</guid>
+        <description>&lt;h2 id=&#34;取消文件追踪&#34;&gt;取消文件追踪&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git rm --cached 文件名
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;[1] .gitignore 只对未跟踪的文件起作用.如果文件已被版本库控制,再在 .gitignore 添加忽略文件会不起作用.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;blockquote&gt;
+&lt;p&gt;[2] 已跟踪的文件是指那些被纳入了版本控制的文件，在上一次提交中有它们的记录。未跟踪文件就是指那些从没提交过的文件.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>Git合并</title>
+        <link>/p/git%E5%90%88%E5%B9%B6/</link>
+        <pubDate>Mon, 22 May 2023 13:08:22 +0800</pubDate>
+        
+        <guid>/p/git%E5%90%88%E5%B9%B6/</guid>
+        <description>&lt;h1 id=&#34;dev-分支合并到-main-分支&#34;&gt;dev 分支合并到 main 分支&lt;/h1&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt; 1
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 2
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 3
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 4
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 5
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 6
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 7
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 8
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt; 9
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;10
+&lt;/span&gt;&lt;span class=&#34;lnt&#34;&gt;11
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 将远程仓库 dev 分支的拉到本地 dev&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git pull origin dev
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 本地切换到 main 分支&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git switch main
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 将本地 dev 分支合并到 main 分支&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git merge dev
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;&lt;span class=&#34;c1&#34;&gt;# 将本地 main 分支上传到远程仓库&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Git其它</title>
+        <link>/p/git%E5%85%B6%E5%AE%83/</link>
+        <pubDate>Sat, 20 May 2023 10:22:37 +0800</pubDate>
+        
+        <guid>/p/git%E5%85%B6%E5%AE%83/</guid>
+        <description>&lt;h2 id=&#34;查看分支图&#34;&gt;查看分支图&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log --graph
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;查看-feature-分支的历史&#34;&gt;查看 feature 分支的历史&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log --graph feature
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>电感</title>
+        <link>/p/%E7%94%B5%E6%84%9F/</link>
+        <pubDate>Thu, 18 May 2023 22:16:17 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E6%84%9F/</guid>
+        <description>&lt;h2 id=&#34;电感的作用&#34;&gt;电感的作用&lt;/h2&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a data-fancybox data-type=&#34;pdf&#34; href=&#34;/pdf/TDK电感世界.pdf&#34; data-width=&#34;100%&#34; data-height=&#34;1080&#34;&gt;PDF file&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>Git基础</title>
+        <link>/p/git%E5%9F%BA%E7%A1%80/</link>
+        <pubDate>Tue, 16 May 2023 20:04:58 +0800</pubDate>
+        
+        <guid>/p/git%E5%9F%BA%E7%A1%80/</guid>
+        <description>&lt;h2 id=&#34;git代码上传&#34;&gt;git代码上传&lt;/h2&gt;
+&lt;h4 id=&#34;创建新的-git-仓库&#34;&gt;创建新的 git 仓库&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git init
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;将当前目录下的所有文件和子目录中的变更添加到-git-的暂存区&#34;&gt;将当前目录下的所有文件和子目录中的变更添加到 Git 的暂存区&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git add .
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;将暂存区中的修改提交到本地-git-仓库并且添加一条提交信息以便于日后查看&#34;&gt;将暂存区中的修改提交到本地 Git 仓库，并且添加一条提交信息以便于日后查看&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git commit -m &lt;span class=&#34;s2&#34;&gt;&amp;#34;first commit&amp;#34;&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;创建一个名为-main-的新分支并从你所在的当前分支切换到它&#34;&gt;创建一个名为 main 的新分支,并从你所在的当前分支切换到它&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout -b main
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;将名为-origin-的远程仓库与你的本地仓库关联起来&#34;&gt;将名为 &amp;ldquo;origin&amp;rdquo; 的远程仓库与你的本地仓库关联起来&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote add origin git@github.com:Yhj123/xue.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:git@github.com&#34; &gt;git@github.com&lt;/a&gt;:Yhj123/xue.git: 远程仓库地址.
+add: 表示将一个新的远程仓库添加到本地仓库中&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;将本地的-develop-分支推送到远程仓库-origin-的-develop-分支&#34;&gt;将本地的 develop 分支推送到远程仓库 origin 的 develop 分支&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin develop:develop
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;将本地-develop-分支推送到远程-origin-仓库的-develop-分支并建立本地分支和远程分支的关联&#34;&gt;将本地 develop 分支推送到远程 origin 仓库的 develop 分支，并建立本地分支和远程分支的关联&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push -u origin develop
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;git-克隆代码&#34;&gt;git 克隆代码&lt;/h2&gt;
+&lt;h4 id=&#34;把最近的一次-commit-给-clone-下来&#34;&gt;把最近的一次 commit 给 clone 下来&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --depth&lt;span class=&#34;o&#34;&gt;=&lt;/span&gt;&lt;span class=&#34;m&#34;&gt;1&lt;/span&gt; https://github.com/jaywcjlove/linux-command.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;只会把默认分支clone下来, 其他远程分支并不在本地.&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;h4 id=&#34;克隆远程仓库的指定分支-dev_jk&#34;&gt;克隆远程仓库的指定分支 dev_jk&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone -b dev_jk http://10.1.1.11/service/tmall-service.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;</description>
+        </item>
+        <item>
+        <title>Git其它命令</title>
+        <link>/p/git%E5%85%B6%E5%AE%83%E5%91%BD%E4%BB%A4/</link>
+        <pubDate>Wed, 10 May 2023 19:22:17 +0800</pubDate>
+        
+        <guid>/p/git%E5%85%B6%E5%AE%83%E5%91%BD%E4%BB%A4/</guid>
+        <description>&lt;h2 id=&#34;创建标签&#34;&gt;创建标签&lt;/h2&gt;
+&lt;h4 id=&#34;给当前的提交打名为-v10-的标签&#34;&gt;给当前的提交打名为 &amp;ldquo;v1.0&amp;rdquo; 的标签&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git tag v1.0
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;查看所有标签&#34;&gt;查看所有标签&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git tag --list
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;给提交号为-f52c633-的提交打名为-v09-的标签&#34;&gt;给提交号为 &amp;ldquo;f52c633&amp;rdquo; 的提交打名为 &amp;ldquo;v0.9&amp;rdquo; 的标签&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git tag v0.9 f52c633
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;查看标签名为-v09-的详细信息&#34;&gt;查看标签名为 &amp;ldquo;v0.9&amp;rdquo; 的详细信息&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git show v0.9
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;查看远程仓库所有标签及-commit-id&#34;&gt;查看远程仓库所有标签及 commit ID&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git ls-remote --tags origin
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;推送一个名为-v09-的标签到远程&#34;&gt;推送一个名为 &amp;ldquo;v0.9&amp;rdquo; 的标签到远程&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin v0.9
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;删除标签&#34;&gt;删除标签&lt;/h2&gt;
+&lt;h4 id=&#34;删除本地名为-v09-的标签&#34;&gt;删除本地名为 &amp;ldquo;v0.9&amp;rdquo; 的标签&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git tag -d v0.9
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;删除远程仓库名为-v09-的标签&#34;&gt;删除远程仓库名为 &amp;ldquo;v0.9&amp;rdquo; 的标签&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push --delete origin v0.9
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;删除远程仓库名为-develop-的分支&#34;&gt;删除远程仓库名为 &amp;ldquo;develop&amp;rdquo; 的分支&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push origin --delete develop
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;克隆&#34;&gt;克隆&lt;/h2&gt;
+&lt;h4 id=&#34;克隆远程仓库标签为-v1657-的分支&#34;&gt;克隆远程仓库标签为 &amp;ldquo;v1.6.5.7&amp;rdquo; 的分支&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone --branch v1.6.5.7 &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;远程仓库地址&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;另一种方法&lt;/p&gt;
+&lt;/blockquote&gt;
+&lt;ol&gt;
+&lt;li&gt;将远程代码拉取到本地&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone -b develop git@gitlab.yopoint.vip:ac/YoPointSwift.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol start=&#34;2&#34;&gt;
+&lt;li&gt;查看 tag&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git tag
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;ol start=&#34;3&#34;&gt;
+&lt;li&gt;检出tag&lt;/li&gt;
+&lt;/ol&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git checkout tagName
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;blockquote&gt;
+&lt;p&gt;如果想修改 tag 下的代码，切记不要直接在此标签下提交代码,需要单独创建一个分支, 在分支上修改并提交.&lt;/p&gt;
+&lt;/blockquote&gt;
+</description>
+        </item>
+        <item>
+        <title>TTL电平</title>
+        <link>/p/ttl%E7%94%B5%E5%B9%B3/</link>
+        <pubDate>Wed, 10 May 2023 14:57:00 +0800</pubDate>
+        
+        <guid>/p/ttl%E7%94%B5%E5%B9%B3/</guid>
+        <description></description>
+        </item>
+        <item>
+        <title>电容</title>
+        <link>/p/%E7%94%B5%E5%AE%B9/</link>
+        <pubDate>Wed, 10 May 2023 14:42:25 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E5%AE%B9/</guid>
+        <description>&lt;h2 id=&#34;电容&#34;&gt;电容&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=472669141&amp;bvid=BV1yK411Z7ME&amp;cid=821617338&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+电容耦合与旁路
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;电容的作用&#34;&gt;电容的作用&lt;/h2&gt;
+&lt;h4 id=&#34;降压&#34;&gt;降压&lt;/h4&gt;
+&lt;h4 id=&#34;延时&#34;&gt;延时&lt;/h4&gt;
+&lt;h4 id=&#34;滤波&#34;&gt;滤波&lt;/h4&gt;
+&lt;h4 id=&#34;旁路&#34;&gt;旁路&lt;/h4&gt;
+&lt;h4 id=&#34;耦合&#34;&gt;耦合&lt;/h4&gt;
+</description>
+        </item>
+        <item>
+        <title>电阻</title>
+        <link>/p/%E7%94%B5%E9%98%BB/</link>
+        <pubDate>Wed, 10 May 2023 11:36:56 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E9%98%BB/</guid>
+        <description>&lt;h2 id=&#34;电阻&#34;&gt;电阻&lt;/h2&gt;
+&lt;h2 id=&#34;种类&#34;&gt;种类&lt;/h2&gt;
+&lt;img src=&#34;/img/电子电路/电阻识别_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;电阻器字母代号&#34;&gt;电阻器字母代号&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻识别_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h2 id=&#34;阻值判断&#34;&gt;阻值判断&lt;/h2&gt;
+&lt;h3 id=&#34;普通电阻器阻值&#34;&gt;普通电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;普通电阻器偏差&#34;&gt;普通电阻器偏差&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻偏差_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;色环电阻器阻值&#34;&gt;色环电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_4.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_5.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;色环电阻颜色含义&#34;&gt;色环电阻颜色含义&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_3.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;贴片电阻器阻值&#34;&gt;贴片电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_6.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;贴片电阻标注含义&#34;&gt;贴片电阻标注含义&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_7.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_8.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h2 id=&#34;功能&#34;&gt;功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;限流&lt;/li&gt;
+&lt;li&gt;降压&lt;/li&gt;
+&lt;li&gt;分压&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>

@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+    <channel>
+        <title>电子电路 on WHO</title>
+        <link>/categories/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF/</link>
+        <description>Recent content in 电子电路 on WHO</description>
+        <generator>Hugo -- gohugo.io</generator>
+        <language>en-us</language>
+        <lastBuildDate>Mon, 25 Sep 2023 17:14:45 +0800</lastBuildDate><atom:link href="/categories/%E7%94%B5%E5%AD%90%E7%94%B5%E8%B7%AF/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>场效应晶体管</title>
+        <link>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</link>
+        <pubDate>Mon, 25 Sep 2023 17:14:45 +0800</pubDate>
+        
+        <guid>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h2&gt;
+&lt;h3 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;结型场效应晶体管(JFET) 和 绝缘栅型场效应晶体管(MOSFET).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h4 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h4&gt;
+&lt;h5 id=&#34;结构&#34;&gt;结构&lt;/h5&gt;
+&lt;img src=&#34;/img/电子电路/场效应晶体管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;场效应管识别&#34;&gt;场效应管识别&lt;/h3&gt;
+</description>
+        </item>
+        <item>
+        <title>三极管</title>
+        <link>/p/%E4%B8%89%E6%9E%81%E7%AE%A1/</link>
+        <pubDate>Fri, 22 Sep 2023 09:13:42 +0800</pubDate>
+        
+        <guid>/p/%E4%B8%89%E6%9E%81%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;三极管&#34;&gt;三极管&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=701717994&amp;bvid=BV1Ym4y1x733&amp;cid=1217352249&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+晶体管前传
+&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;晶体管分类&#34;&gt;晶体管分类&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;晶体管有两种分类: 双极结型晶体管(Bipolar Junction Transistor: 简称 BJT) 和 场效应晶体管(FET).&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
+&lt;a href=&#34;https://www.youtube.com/watch?v=AcxDiesy-nI&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+  三极管介绍
+&lt;/a&gt;
+&lt;img src=&#34;/img/电子电路/三极管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;三极管识别&#34;&gt;三极管识别&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/三极管识别_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/三极管识别_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;三极管特性&#34;&gt;三极管特性&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/三极管特性曲线.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;三极管特性曲线解析&#34;&gt;三极管特性曲线解析&lt;/h4&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=354475442&amp;bvid=BV1wX4y1k7rx&amp;cid=1079081150&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+三极管特性曲线解析
+&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1je411M72P&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1dG4y1Z7rj&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;ol&gt;
+&lt;li&gt;在三极管内部，Uce的主要作用是保证集电结反偏。当Uce很小，不能使集电结反偏时，三极管完全等同于二极管.&lt;/li&gt;
+&lt;li&gt;在 Uce 使集电结反偏后, 集电结内电场增强, 能将扩散到基区自由电子中的绝大部分拉入集电区, 与 Uce 很小(或不存在)相比, Ib 增大了. Uce并不能改变特性曲线的形状, 只能使曲线下移一段距离.&lt;/li&gt;
+&lt;li&gt;当基极电流 Ib 不变时, 集电极电流 Ie 随 Uce 的变化很小，如当 Ib = 30 μA 时，Uce 从 5V 变到 10V, Ie 稍有增加.&lt;/li&gt;
+&lt;/ol&gt;
+&lt;h3 id=&#34;三极管作用&#34;&gt;三极管作用&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;电流放大作用&lt;/li&gt;
+&lt;li&gt;开关功能&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        <item>
+        <title>三相电源</title>
+        <link>/p/%E4%B8%89%E7%9B%B8%E7%94%B5%E6%BA%90/</link>
+        <pubDate>Thu, 24 Aug 2023 11:18:25 +0800</pubDate>
+        
+        <guid>/p/%E4%B8%89%E7%9B%B8%E7%94%B5%E6%BA%90/</guid>
+        <description>&lt;p&gt;
+
+
+
+
+
+    
+
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1884y147BL&#34;
+            scrolling=&#34;no&#34;
+            frameborder=&#34;no&#34;
+            framespacing=&#34;0&#34;
+            allowfullscreen=&#34;true&#34;
+            autoplay=&#34;false&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+
+&lt;div class=&#34;video-wrapper&#34;&gt;
+    &lt;iframe loading=&#34;lazy&#34; 
+            src=&#34;https://www.youtube.com/embed/4oRT7PoXSS0&#34; 
+            allowfullscreen 
+            title=&#34;YouTube Video&#34;
+    &gt;
+    &lt;/iframe&gt;
+&lt;/div&gt;
+&lt;/p&gt;
+&lt;p&gt;Hey there guys.Paul here from TheEngineeringMindset.com.&lt;/p&gt;
+&lt;p&gt;In this video, we&amp;rsquo;re going to be looking at Three Phase Electricity. Now, this follows on from our series on electrical engineering, so if you haven&amp;rsquo;t watched the previous videos on this so far, then please do this first. Links are in the video description below.&lt;/p&gt;
+&lt;p&gt;Coming up, we&amp;rsquo;re going to be looking at how a simple AC generator works. Then we&amp;rsquo;ll look at a single phase power, then two phase power, and
+then finally three phase power. As well as how three phase power is used and why.Also why we don&amp;rsquo;t use four, five, six phase, et cetera power.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+接下来，我们将看到一个简单的交流发电机是如何工作的。然后我们来看看单相功率，然后是两相交流电，最后是三相交流电。如何使用三相交流电以及为什么使用三相交流电。为什么我们不使用四，五，六相交流电等等。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;So, first of all, let&amp;rsquo;s start with a simple AC generator. We&amp;rsquo;ll start with a single phase to understand what&amp;rsquo;s happening, and then we&amp;rsquo;ll add in other phases until we get to three phases.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+首先，让我们从一个简单的交流发电机开始. 我们将从单相开始了解发生了什么, 然后再添加其他相位, 直到我们达到三相.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Let&amp;rsquo;s take a copper wire and wrap it into two coils, then place these coils opposite each other within a stator, and connect the ends together to create a complete circuit.Now, if we place a magnet in-between these coils, and we start to rotate the magnet, then the magnetic field will disturb
+the free electrons within the copper wire, and an electrical current will begin to flow. We&amp;rsquo;ve covered how the free electrons flow in a previous video on the electricity basics. So, please check that out if have not so already. Links are in the video description below.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+让我们拿一根铜线，将其缠成两个线圈，然后将这些线圈相对放置在定子内，并连接两端以创建完整电路。现在，如果我们在这些线圈之间放置一个磁铁，并开始旋转磁铁，那么磁场将干扰铜线内的自由电子，电流将开始流动。我们已经在之前的电力基础视频中介绍了自由电子的流动。如果你还没有看过，请在下面的视频描述中查看链接。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;As the magnet rotates, so does the polarity of the magnetic field. As you can see in the illustration, the North and South pole of the magnet are rotating, and as they rotate, they pass across the coils, which force electrons to move. Notice the lines of the magnetic field
+are in these oval shapes on each side, and they meet through the central axis of the magnet.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+随着磁铁的旋转,磁场的极性也随之改变.如图所示,磁铁的南北极在旋转,随着它们的旋转,它们穿过线圈,强迫电子移动.请注意,磁场线在每一侧都呈椭圆形,并且它们通过磁铁的中心轴相遇.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;You can think of these as one side being positive, and the other side being negative, and in-between these ovals, the magnetic field is neutral. You can see that the intensity of the magnetic field increases on either side until the center, where it is at its maximum strength, and then it decreases again until it gets back to the neutral point.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+你可以把它们想象成一侧为正,另一侧为负,而在这些椭圆之间,磁场是中性的.你可以看到磁场的强度在两侧增加,直到中心,在那里它达到最大强度,然后再次减少,直到回到中性点.
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;So, as this field rotates through the coil, the coil will experience an increasing intensity of the magnetic fields positive half. And during this increase, the free electrons within the copper coil will be pushed and begin to move faster
+and faster in one direction, up until it reaches the maximum point of the magnetic field. Then, as the magnetic field decreases, the flow of electrons will begin to slow all the way until it reaches the neutral point when no electrons will flow.&lt;/p&gt;
+
+&lt;span class=&#34;spoiler&#34; &gt;
+因此，当这个场通过线圈旋转时，线圈将经历磁场正半周期的强度增加。在这个增加过程中，铜线圈内的自由电子将被推动，并开始向一个方向移动得越来越快，直到达到磁场的最大点。然后，随着磁场的减弱，电子流将开始减缓，直到达到中性点时不再流动。
+&lt;/span&gt;
+
+&lt;style&gt;
+
+.spoiler { 
+  color: black; 
+  background-color:black;
+}
+.spoiler:hover{
+  color: white;
+}
+&lt;/style&gt;
+
+&lt;p&gt;Then comes the negative
+side of the magnetic field. And as this passes through, it&amp;rsquo;s going to pull the free electrons backwards. Again, the flow of electrons will flow faster and faster, up until the maximum point of the magnetic field. And then it will decrease back to the neutral point. This is why AC electricity is called alternating current. Because the current of the electrons alternates in direction, backwards and forwards, just like the tide of the sea. If we were to plot on a graph, the speed of the electrons flowing during the rotation, then we would get a sine wave pattern. In this sine wave, you can see that the electrons are stationary at the start, in the neutral zone, and then the speed increases through the positive half, all the way up to the maximum, and then it begins to decrease all the way back down to the neutral when no electrons will flow again. After this comes the negative half, where the electrons speed up to the maximum point and then they begin to slow down again until the magnet has completed one full rotation, where this will then repeat. This complete rotation is known as a cycle. And the number of cycles per second is called the frequency, which is measured in hertz. You&amp;rsquo;ve probably seen 50 hertz or 60 hertz written on your electrical goods. This means that the generator of the power station is completing a full rotation either 50 or 60 times per second. So the direction of the current is therefore also changing, 50 or 60 times per second also. When it is written on electrical products, this is just telling the user what type of electricity the product should be connected to. Now, coming back to the sine wave that we saw earlier, this plot of current also represents power. And if we connect a lamp into the circuit, we&amp;rsquo;ll see that it will increase in brightness all the way to the peak, that maximum point, then it decreases in brightness all the way down until the neutral point, where the lamp is actually off, because no current is flowing.But, then it will increase in brightness again as the negative half of the cycle comes through, and the electrons start to flow back through in the opposite direction until again it reaches the neutral point.So, at these points in the cycle, the lamp is not producing any light. And at these points in the cycle, the lamp is not very bright, so it&amp;rsquo;s not of much use.So if you&amp;rsquo;re working in a room and this lighting is flickering like this, it&amp;rsquo;s going to get really annoying. To improve this we can add another set of coils, or a second phase, into the generator. And we can do this by placing the coils 120 degrees rotation from the first set of coils, and then connect this up to another lamp. This rotation means that the coils will experience the changing intensity of the magnetic field at different points in time. The first coil reaches its maximum current and brightness, and as it decreases the second coil will begin to increase. This has improved the lighting, but there is still a gap which will cause a flicker. So we can add in a third set of coils, or a third phase, and this will mean that one of the lamps are almost always at its maximum brightness, so the lighting is nearly constant. There are still some small gaps between the phases and you could keep adding more and more phases to fill these gaps, but this will become more and more expensive to keep running all these cables. So three phase became widely accepted, as its a good compromise between power provided and cost to build. Now in the real world, you&amp;rsquo;re not going to use three different lamps, in different phases, to create lighting. The lamps in your homes are all on single phase, but they are flickering, it&amp;rsquo;s just that they are turning on and off so fast that the human eye can&amp;rsquo;t see it unless you record the lamp in slow motion. A more practical application is the power electrical induction motors and other commercial and industrial equipment, as three phase will provide a lot more power to these items, meaning you can pump water higher, or you can run motors faster, et cetera, et cetera. Power is generally generated and distributed in three phase, and transformers are used to change the voltage. If you want to learn how transformers work, we&amp;rsquo;ve also covered that too. Links are in the video description below. Now one of the interesting things with three phase power, is that you can connect all three phases and power large industrial equipment, or you can also connect only one of the phases and also power small electrical goods. This is generally how large tower blocks and skyscrapers distribute electricity through the building. The lift motors and air conditioning pumps, et cetera, will need three phase power, but the computers and office equipment will need single phase power. So they distribute three phase power up the building and they draw off from this as needed. The same occurs with the distribution of electricity across a city. Houses will be connected to only a single phase because they do not require much power, whereas a large building will be connected to a three phase supply as they will require a lot of power. Okay guys, that&amp;rsquo;s it for this video. Thank you very much for watching. I hope this has helped you and you&amp;rsquo;ve enjoyed it. If so, then please don&amp;rsquo;t forget to like, subscribe and share this video. And also follow us on Facebook, Twitter, Google+, Instagram, as well as our website TheEngineeringMindset.com.&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>二极管</title>
+        <link>/p/%E4%BA%8C%E6%9E%81%E7%AE%A1/</link>
+        <pubDate>Wed, 14 Jun 2023 12:02:51 +0800</pubDate>
+        
+        <guid>/p/%E4%BA%8C%E6%9E%81%E7%AE%A1/</guid>
+        <description>&lt;h2 id=&#34;二极管&#34;&gt;二极管&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=532678437&amp;bvid=BV1Pu411N74Q&amp;cid=1245944692&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+二极管由来
+&lt;/a&gt;&lt;/p&gt;
+&lt;h4 id=&#34;二极管比较&#34;&gt;二极管比较&lt;/h4&gt;
+&lt;ul&gt;
+&lt;li&gt;压降为 0.7V 的二极管，一般为硅管，一般硅管耐电流小，但耐电压高，频率特性较差；&lt;/li&gt;
+&lt;li&gt;压降为 0.1V 的二极管，一般为锗管，一般锗管耐电流大，但耐电压低，频率特性较好.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h2 id=&#34;二极管分类&#34;&gt;二极管分类&lt;/h2&gt;
+&lt;h3 id=&#34;普通二极管&#34;&gt;普通二极管&lt;/h3&gt;
+&lt;h4 id=&#34;普通二极管特性&#34;&gt;普通二极管特性&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/二极管特性_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;恒流二极管&#34;&gt;恒流二极管&lt;/h3&gt;
+&lt;h3 id=&#34;肖特基二极管&#34;&gt;肖特基二极管&lt;/h3&gt;
+&lt;h3 id=&#34;快恢复二极管&#34;&gt;快恢复二极管&lt;/h3&gt;
+&lt;h3 id=&#34;瞬态电压抑制二极管tvs&#34;&gt;瞬态电压抑制二极管(TVS)&lt;/h3&gt;
+&lt;h3 id=&#34;齐纳二极管稳压二极管&#34;&gt;齐纳二极管(稳压二极管)&lt;/h3&gt;
+&lt;p&gt;&lt;a href=&#34;https://www.youtube.com/watch?v=mmiHX_IzvDw&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox=&#34;video-gallery&#34;&gt;齐纳二极管&lt;/a&gt;&lt;/p&gt;
+&lt;h3 id=&#34;发光二极管&#34;&gt;发光二极管&lt;/h3&gt;
+&lt;h3 id=&#34;光电二极管&#34;&gt;光电二极管&lt;/h3&gt;
+&lt;h3 id=&#34;变容二极管&#34;&gt;变容二极管&lt;/h3&gt;
+&lt;h2 id=&#34;二极管的作用&#34;&gt;二极管的作用&lt;/h2&gt;
+&lt;h4 id=&#34;钳位作用&#34;&gt;钳位作用&lt;/h4&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+</description>
+        </item>
+        <item>
+        <title>电感</title>
+        <link>/p/%E7%94%B5%E6%84%9F/</link>
+        <pubDate>Thu, 18 May 2023 22:16:17 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E6%84%9F/</guid>
+        <description>&lt;h2 id=&#34;电感的作用&#34;&gt;电感的作用&lt;/h2&gt;
+&lt;h4 id=&#34;heading&#34;&gt;&lt;/h4&gt;
+&lt;p&gt;&lt;a data-fancybox data-type=&#34;pdf&#34; href=&#34;/pdf/TDK电感世界.pdf&#34; data-width=&#34;100%&#34; data-height=&#34;1080&#34;&gt;PDF file&lt;/a&gt;&lt;/p&gt;
+</description>
+        </item>
+        <item>
+        <title>电容</title>
+        <link>/p/%E7%94%B5%E5%AE%B9/</link>
+        <pubDate>Wed, 10 May 2023 14:42:25 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E5%AE%B9/</guid>
+        <description>&lt;h2 id=&#34;电容&#34;&gt;电容&lt;/h2&gt;
+&lt;p&gt;&lt;a href=&#34;//player.bilibili.com/player.html?aid=472669141&amp;bvid=BV1yK411Z7ME&amp;cid=821617338&amp;p=1&#34;
+data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
+电容耦合与旁路
+&lt;/a&gt;&lt;/p&gt;
+&lt;h2 id=&#34;电容的作用&#34;&gt;电容的作用&lt;/h2&gt;
+&lt;h4 id=&#34;降压&#34;&gt;降压&lt;/h4&gt;
+&lt;h4 id=&#34;延时&#34;&gt;延时&lt;/h4&gt;
+&lt;h4 id=&#34;滤波&#34;&gt;滤波&lt;/h4&gt;
+&lt;h4 id=&#34;旁路&#34;&gt;旁路&lt;/h4&gt;
+&lt;h4 id=&#34;耦合&#34;&gt;耦合&lt;/h4&gt;
+</description>
+        </item>
+        <item>
+        <title>电阻</title>
+        <link>/p/%E7%94%B5%E9%98%BB/</link>
+        <pubDate>Wed, 10 May 2023 11:36:56 +0800</pubDate>
+        
+        <guid>/p/%E7%94%B5%E9%98%BB/</guid>
+        <description>&lt;h2 id=&#34;电阻&#34;&gt;电阻&lt;/h2&gt;
+&lt;h2 id=&#34;种类&#34;&gt;种类&lt;/h2&gt;
+&lt;img src=&#34;/img/电子电路/电阻识别_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;电阻器字母代号&#34;&gt;电阻器字母代号&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻识别_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h2 id=&#34;阻值判断&#34;&gt;阻值判断&lt;/h2&gt;
+&lt;h3 id=&#34;普通电阻器阻值&#34;&gt;普通电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;普通电阻器偏差&#34;&gt;普通电阻器偏差&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻偏差_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;色环电阻器阻值&#34;&gt;色环电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_4.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_5.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;色环电阻颜色含义&#34;&gt;色环电阻颜色含义&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_3.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h3 id=&#34;贴片电阻器阻值&#34;&gt;贴片电阻器阻值&lt;/h3&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_6.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;贴片电阻标注含义&#34;&gt;贴片电阻标注含义&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_7.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;img src=&#34;/img/电子电路/电阻阻值_8.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h2 id=&#34;功能&#34;&gt;功能&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;限流&lt;/li&gt;
+&lt;li&gt;降压&lt;/li&gt;
+&lt;li&gt;分压&lt;/li&gt;
+&lt;/ul&gt;
+</description>
+        </item>
+        
+    </channel>
+</rss>
