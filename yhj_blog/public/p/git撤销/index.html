@@ -6,7 +6,7 @@
 
 <link rel='canonical' href='/p/git%E6%92%A4%E9%94%80/'>
 
-<link rel="stylesheet" href="/scss/style.min.bd526408f2ffc41ca18e63cd5b099b40858f89963aed449e27807f2aba3baa3e.css">
+<link rel="stylesheet" href="/scss/style.min.cd2b0d652a269acf88e2c57d64ad894f92fd7d701efbab2c96ec0e180e86700b.css">
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.css">
 <script src="https://cdn.jsdelivr.net/npm/aplayer/dist/APlayer.min.js"></script>
 
@@ -25,7 +25,10 @@
 <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.12/dist/fancybox.css">
 <script src="https://cdn.jsdelivr.net/npm/@fancyapps/ui@4.0.12/dist/fancybox.umd.js"></script>
 
+
 <script defer src="js/fontawesome_js/all.js"></script>
+
+
 <meta property='og:title' content='Git撤销'>
 <meta property='og:description' content='撤销 commit 详细步骤 git log命令查看提交信息,获取要撤销的版本号 1 git log git reset &amp;ndash;mixed &amp;lt;版本号&amp;gt; 重置到指定版本的提交 1 git reset --mixed [版本号] 使用 mixed, 只会'>
 <meta property='og:url' content='/p/git%E6%92%A4%E9%94%80/'>
@@ -372,8 +375,34 @@
 
             
         
+    
+    
+    
+    <a id="back-to-top" href="#">
+        <img src="/img/top_huecebaa6d9852487b7b276b074886cf42_952_40x0_resize_box_3.png" />
+    </a>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script>
+        
+        $(window).scroll(function() {
+        if ($(this).scrollTop()) {
+            $('#back-to-top').fadeIn();
+        } else {
+            $('#back-to-top').fadeOut();
+        }
+        });
+
+        
+        $('#back-to-top').click(function() {
+        $('html, body').animate({scrollTop: 0}, 1000);
+        return false;
+        });
+    </script>
+    
     </aside>
 
+    
 
             <main class="main full-width">
     <article class="main-article">
@@ -542,7 +571,19 @@
 </span></span></code></pre></td></tr></table>
 </div>
 </div><p><a class="link" href="https://www.jianshu.com/p/c2ec5f06cf1a"  target="_blank" rel="noopener"
-    >参考链接</a></p>
+    >参考链接
+    
+    
+    <span style="white-space: nowrap;">
+        <svg width=".7em" height=".7em" viewBox="0 0 21 21" xmlns="http://www.w3.org/2000/svg">
+            <path d="m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z" fill="currentColor" />
+            <path d="M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z"
+        fill="currentColor">
+        </svg>
+    </span>
+    
+    
+</a></p>
 
 </section>
 
@@ -781,6 +822,10 @@
 
     
 
+    
+
+    
+
 
     <section class="copyright">
         &copy; 
@@ -794,7 +839,7 @@
         </span>
         </br>
 
-     共 34篇文章</br><span><p>
+     共 36篇文章</br><span><p>
 
     </section>
     

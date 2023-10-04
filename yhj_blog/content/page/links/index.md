@@ -4,6 +4,7 @@ links:
   - title: 杂志期刊
     description: 中文杂志
     website: http://qikan.lifves.com/
+    image: ts-logo-1.png
   - title: GitHub
     description: GitHub is the world's largest software development platform.
     website: https://github.com
@@ -42,6 +43,12 @@ links:
   - title: 书栈网
     description: 技术书籍
     website: https://www.bookstack.cn/
+  - title: 代码阅读
+    description: 技术网站
+    website: https://codebrowser.dev/
+  - title: 电子开发网
+    description: 电子电路
+    website: http://www.dzkfw.com.cn/
   - title: 博客
     description: 博客
     website: https://zerovip.github.io/zh/82988/

@@ -12,15 +12,21 @@
         <pubDate>Mon, 25 Sep 2023 17:14:45 +0800</pubDate>
         
         <guid>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</guid>
-        <description>&lt;h2 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h2&gt;
-&lt;h3 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h3&gt;
+        <description>&lt;h1 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h1&gt;
+&lt;h2 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;结型场效应晶体管(JFET) 和 绝缘栅型场效应晶体管(MOSFET).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h4&gt;
-&lt;h5 id=&#34;结构&#34;&gt;结构&lt;/h5&gt;
+&lt;h3 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h3&gt;
+&lt;h4 id=&#34;结型场效应晶体管结构&#34;&gt;结型场效应晶体管结构&lt;/h4&gt;
 &lt;img src=&#34;/img/电子电路/场效应晶体管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;绝缘栅型场效应晶体管结构&#34;&gt;绝缘栅型场效应晶体管结构&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/场效应晶体管_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
 &lt;h3 id=&#34;场效应管识别&#34;&gt;场效应管识别&lt;/h3&gt;
+&lt;h3 id=&#34;结型场效应晶体管功能&#34;&gt;结型场效应晶体管功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;放大器件&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -38,6 +44,9 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;ul&gt;
 &lt;li&gt;晶体管有两种分类: 双极结型晶体管(Bipolar Junction Transistor: 简称 BJT) 和 场效应晶体管(FET).&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;https://www.youtube.com/embed/Bine_PbyFSQ?si=8EWeCdyjdoTSUCLq&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+  三极管与场效应管
+&lt;/a&gt;
 &lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=AcxDiesy-nI&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
   三极管介绍

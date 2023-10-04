@@ -1,6 +1,19 @@
 /* Place your custom SCSS in HUGO_SITE_FOLDER/assets/scss/custom.scss */
 
+// 亮色主题颜色更改
+:root {
+  --body-background: #D8AE92;
+  --body-text-color: #00008B;
+  --accent-color: #c1328e;
+  --accent-color-text: #FF00FF;
+}
 
+:root {
+  --card-background: #fddea5;
+  --card-text-color-main: #0d0015;
+  --card-text-color-secondary: #FF1493;
+  --card-text-color-tertiary: #000000;
+}
 
 
 // notice.html 的样式表
@@ -256,4 +269,19 @@ a:hover{
           }
       }
   }
+}
+
+
+// 返回顶部按钮的样式
+$hover: 0.05s cubic-bezier(0.17,0.86,0.73,0.14);
+#back-to-top {
+    bottom: -50px;
+    right: 2px;
+    display: none;
+    position: absolute;  
+    border: 0;
+    transition: transform $hover;
+    &:hover {
+      transform: translateY(-10px);
+    }
 }

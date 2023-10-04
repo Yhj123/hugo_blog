@@ -6,21 +6,56 @@
         <description>Recent content in Posts on WHO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Mon, 25 Sep 2023 17:14:45 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Wed, 27 Sep 2023 11:39:38 +0800</lastBuildDate><atom:link href="/post/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>项目添加ui文件</title>
+        <link>/p/%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0ui%E6%96%87%E4%BB%B6/</link>
+        <pubDate>Wed, 27 Sep 2023 11:39:38 +0800</pubDate>
+        
+        <guid>/p/%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0ui%E6%96%87%E4%BB%B6/</guid>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+</description>
+        </item>
+        <item>
+        <title>Script教程</title>
+        <link>/p/script%E6%95%99%E7%A8%8B/</link>
+        <pubDate>Tue, 26 Sep 2023 09:42:40 +0800</pubDate>
+        
+        <guid>/p/script%E6%95%99%E7%A8%8B/</guid>
+        <description>&lt;h2 id=&#34;typescript-教程&#34;&gt;TypeScript 教程&lt;/h2&gt;
+&lt;div class=&#34;github&#34;&gt;
+    &lt;div class=&#34;logo&#34;&gt;
+        &lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon github-icon&#34; viewBox=&#34;0 0 16 16&#34;&gt;&lt;path fill-rule=&#34;evenodd&#34; clip-rule=&#34;evenodd&#34; d=&#34;M2 2.5C2 1.83696 2.26339 1.20107 2.73223 0.732233C3.20108 0.263392 3.83696 0 4.5 0L13.25 0C13.4489 0 13.6397 0.0790176 13.7803 0.21967C13.921 0.360322 14 0.551088 14 0.75V13.25C14 13.4489 13.921 13.6397 13.7803 13.7803C13.6397 13.921 13.4489 14 13.25 14H10.75C10.5511 14 10.3603 13.921 10.2197 13.7803C10.079 13.6397 10 13.4489 10 13.25C10 13.0511 10.079 12.8603 10.2197 12.7197C10.3603 12.579 10.5511 12.5 10.75 12.5H12.5V10.5H4.5C4.30308 10.5 4.11056 10.5582 3.94657 10.6672C3.78257 10.7762 3.65442 10.9312 3.57816 11.1128C3.50191 11.2943 3.48096 11.4943 3.51793 11.6878C3.5549 11.8812 3.64816 12.0594 3.786 12.2C3.92524 12.3422 4.0023 12.5338 4.00024 12.7328C3.99818 12.9318 3.91716 13.1218 3.775 13.261C3.63285 13.4002 3.4412 13.4773 3.24222 13.4752C3.04325 13.4732 2.85324 13.3922 2.714 13.25C2.25571 12.7829 1.99929 12.1544 2 11.5V2.5ZM12.5 1.5V9H4.5C4.144 9 3.806 9.074 3.5 9.208V2.5C3.5 2.23478 3.60536 1.98043 3.79289 1.79289C3.98043 1.60536 4.23478 1.5 4.5 1.5H12.5ZM5 12.25V15.5C5 15.5464 5.01293 15.5919 5.03734 15.6314C5.06175 15.6709 5.09667 15.7028 5.1382 15.7236C5.17972 15.7444 5.22621 15.7532 5.27245 15.749C5.31869 15.7448 5.36286 15.7279 5.4 15.7L6.85 14.613C6.89328 14.5805 6.94591 14.563 7 14.563C7.05409 14.563 7.10673 14.5805 7.15 14.613L8.6 15.7C8.63714 15.7279 8.68131 15.7448 8.72755 15.749C8.77379 15.7532 8.82028 15.7444 8.8618 15.7236C8.90333 15.7028 8.93826 15.6709 8.96266 15.6314C8.98707 15.5919 9 15.5464 9 15.5V12.25C9 12.1837 8.97366 12.1201 8.92678 12.0732C8.87989 12.0263 8.81631 12 8.75 12H5.25C5.1837 12 5.12011 12.0263 5.07322 12.0732C5.02634 12.1201 5 12.1837 5 12.25Z&#34;/&gt;&lt;/svg&gt;
+        &lt;a class=&#34;name&#34; href=https://github.com/xcatliu/typescript-tutorial target=&#34;_blank&#34;&gt;TypeScript&lt;/a&gt;
+    &lt;/div&gt;
+    &lt;div class=&#34;description&#34;&gt;从 JavaScript 程序员的角度总结思考，循序渐进的理解 TypeScript&lt;/div&gt; 
+    &lt;div class=&#34;language&#34;&gt;
+        &lt;span class=&#34;language-color&#34; style=&#34;background-color: #00EE00&#34;&gt;&lt;/span&gt;
+        &lt;span class=&#34;language-name&#34;&gt;javascript&lt;/span&gt;
+    &lt;/div&gt;
+&lt;/div&gt;
+</description>
+        </item>
+        <item>
         <title>场效应晶体管</title>
         <link>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</link>
         <pubDate>Mon, 25 Sep 2023 17:14:45 +0800</pubDate>
         
         <guid>/p/%E5%9C%BA%E6%95%88%E5%BA%94%E6%99%B6%E4%BD%93%E7%AE%A1/</guid>
-        <description>&lt;h2 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h2&gt;
-&lt;h3 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h3&gt;
+        <description>&lt;h1 id=&#34;场效应晶体管&#34;&gt;场效应晶体管&lt;/h1&gt;
+&lt;h2 id=&#34;场效应管分类&#34;&gt;场效应管分类&lt;/h2&gt;
 &lt;ul&gt;
 &lt;li&gt;结型场效应晶体管(JFET) 和 绝缘栅型场效应晶体管(MOSFET).&lt;/li&gt;
 &lt;/ul&gt;
-&lt;h4 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h4&gt;
-&lt;h5 id=&#34;结构&#34;&gt;结构&lt;/h5&gt;
+&lt;h3 id=&#34;结型场效应晶体管&#34;&gt;结型场效应晶体管&lt;/h3&gt;
+&lt;h4 id=&#34;结型场效应晶体管结构&#34;&gt;结型场效应晶体管结构&lt;/h4&gt;
 &lt;img src=&#34;/img/电子电路/场效应晶体管_1.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+&lt;h4 id=&#34;绝缘栅型场效应晶体管结构&#34;&gt;绝缘栅型场效应晶体管结构&lt;/h4&gt;
+&lt;img src=&#34;/img/电子电路/场效应晶体管_2.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
 &lt;h3 id=&#34;场效应管识别&#34;&gt;场效应管识别&lt;/h3&gt;
+&lt;h3 id=&#34;结型场效应晶体管功能&#34;&gt;结型场效应晶体管功能&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;放大器件&lt;/li&gt;
+&lt;/ul&gt;
 </description>
         </item>
         <item>
@@ -64,6 +99,9 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;ul&gt;
 &lt;li&gt;晶体管有两种分类: 双极结型晶体管(Bipolar Junction Transistor: 简称 BJT) 和 场效应晶体管(FET).&lt;/li&gt;
 &lt;/ul&gt;
+&lt;a href=&#34;https://www.youtube.com/embed/Bine_PbyFSQ?si=8EWeCdyjdoTSUCLq&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+  三极管与场效应管
+&lt;/a&gt;
 &lt;h3 id=&#34;概述&#34;&gt;概述&lt;/h3&gt;
 &lt;a href=&#34;https://www.youtube.com/watch?v=AcxDiesy-nI&amp;ab_channel=TheOrganicChemistryTutor&#34; data-fancybox data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
   三极管介绍
@@ -784,7 +822,19 @@ side of the magnetic field. And as this passes through, it&amp;rsquo;s going to 
         <description>&lt;h2 id=&#34;直流充电&#34;&gt;直流充电&lt;/h2&gt;
 &lt;h4 id=&#34;27930协议can报文解析&#34;&gt;27930协议CAN报文解析&lt;/h4&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.cnblogs.com/NewCindy/p/15826088.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;链接&lt;/a&gt;&lt;/p&gt;
+    &gt;链接
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -815,7 +865,19 @@ side of the magnetic field. And as this passes through, it&amp;rsquo;s going to 
 &lt;/div&gt;
 
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/international24/article/details/107498925&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;链接&lt;/a&gt;&lt;/p&gt;
+    &gt;链接
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -976,9 +1038,33 @@ Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rum
         <guid>/p/%E5%87%BD%E6%95%B0%E6%8C%87%E9%92%88/</guid>
         <description>&lt;h2 id=&#34;函数指针&#34;&gt;函数指针&lt;/h2&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://zhuanlan.zhihu.com/p/168627944&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+    &gt;参考链接
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.runoob.com/w3cnote/cpp-func-pointer.html&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+    &gt;参考链接
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1101,7 +1187,19 @@ Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rum
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://www.jianshu.com/p/c2ec5f06cf1a&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
-    &gt;参考链接&lt;/a&gt;&lt;/p&gt;
+    &gt;参考链接
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&lt;/p&gt;
 </description>
         </item>
         <item>
@@ -1329,7 +1427,11 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;&lt;blockquote&gt;
-&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:git@github.com&#34; &gt;git@github.com&lt;/a&gt;:Yhj123/xue.git: 远程仓库地址.
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;mailto:git@github.com&#34; &gt;git@github.com
+    
+    
+    
+&lt;/a&gt;:Yhj123/xue.git: 远程仓库地址.
 add: 表示将一个新的远程仓库添加到本地仓库中&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;h4 id=&#34;将本地的-develop-分支推送到远程仓库-origin-的-develop-分支&#34;&gt;将本地的 develop 分支推送到远程仓库 origin 的 develop 分支&lt;/h4&gt;

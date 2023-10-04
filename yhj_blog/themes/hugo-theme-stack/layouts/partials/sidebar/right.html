@@ -9,5 +9,30 @@
                 {{ warnf "Widget %s not found" .type }}
             {{ end }}
         {{ end }}
+    <!-- 返回顶部按钮 begin-->
+    {{ $topImg := resources.Get ("img/top.png") }}
+    {{ $topImg := $topImg.Resize "40x" }}
+    <a id="back-to-top" href="#">
+        <img src="{{ $topImg.RelPermalink }}" />
+    </a>
+    <script src="https://apps.bdimg.com/libs/jquery/2.1.4/jquery.min.js"></script>
+
+    <script>
+        // Check to see if the window is top if not then display button
+        $(window).scroll(function() {
+        if ($(this).scrollTop()) {
+            $('#back-to-top').fadeIn();
+        } else {
+            $('#back-to-top').fadeOut();
+        }
+        });
+
+        // Click event to scroll to top
+        $('#back-to-top').click(function() {
+        $('html, body').animate({scrollTop: 0}, 1000);
+        return false;
+        });
+    </script>
+    <!-- 返回顶部按钮 end-->
     </aside>
 {{ end }}

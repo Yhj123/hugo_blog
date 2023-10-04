@@ -96,6 +96,8 @@
     .site-avatar {
         position: relative;
         margin: 0;
+        margin-left: auto;
+        margin-right: auto;
         width: var(--sidebar-avatar-size);
         height: var(--sidebar-avatar-size);
         flex-shrink: 0;
@@ -131,6 +133,7 @@
 
     .site-name {
         color: var(--accent-color);
+        text-align: center;
         margin: 0;
         font-size: 1.6rem;
 
@@ -142,6 +145,7 @@
     .site-description {
         color: var(--body-text-color);
         font-weight: normal;
+        text-align: center;
         margin: 0;
         font-size: 1.4rem;
 
