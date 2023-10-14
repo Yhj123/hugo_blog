@@ -303,11 +303,13 @@
         padding: var(--card-padding);
         position: relative;
 
+        /*
         &:hover {
             .copyCodeButton {
                 opacity: 1;
             }
         }
+        */
         // keep Codeblocks LTR
         [dir="rtl"] & {
             direction: ltr;
@@ -320,6 +322,7 @@
         }
     }
 
+    /*
     .copyCodeButton {
         position: absolute;
         top: calc(var(--card-padding));
@@ -335,6 +338,7 @@
         opacity: 0;
         transition: opacity 0.3s ease;
     }
+    */
 
     .table-wrapper {
         padding: 0 var(--card-padding);

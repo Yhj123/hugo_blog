@@ -62,34 +62,77 @@ let Stack = {
         /**
          * Add copy button to code block
         */
-        const highlights = document.querySelectorAll('.article-content div.highlight');
-        const copyText = `Copy`,
-            copiedText = `Copied!`;
+        // const highlights = document.querySelectorAll('.article-content div.highlight');
+        // const copyText = `Copy`,
+        //     copiedText = `Copied!`;
 
-        highlights.forEach(highlight => {
-            const copyButton = document.createElement('button');
-            copyButton.innerHTML = copyText;
-            copyButton.classList.add('copyCodeButton');
-            highlight.appendChild(copyButton);
+        // highlights.forEach(highlight => {
+        //     const copyButton = document.createElement('button');
+        //     copyButton.innerHTML = copyText;
+        //     copyButton.classList.add('copyCodeButton');
+        //     highlight.appendChild(copyButton);
 
-            const codeBlock = highlight.querySelector('code[data-lang]');
-            if (!codeBlock) return;
+        //     const codeBlock = highlight.querySelector('code[data-lang]');
+        //     if (!codeBlock) return;
 
-            copyButton.addEventListener('click', () => {
-                navigator.clipboard.writeText(codeBlock.textContent)
-                    .then(() => {
-                        copyButton.textContent = copiedText;
+        //     copyButton.addEventListener('click', () => {
+        //         navigator.clipboard.writeText(codeBlock.textContent)
+        //             .then(() => {
+        //                 copyButton.textContent = copiedText;
 
-                        setTimeout(() => {
-                            copyButton.textContent = copyText;
-                        }, 1000);
-                    })
-                    .catch(err => {
-                        alert(err)
-                        console.log('Something went wrong', err);
-                    });
+        //                 setTimeout(() => {
+        //                     copyButton.textContent = copyText;
+        //                 }, 1000);
+        //             })
+        //             .catch(err => {
+        //                 alert(err)
+        //                 console.log('Something went wrong', err);
+        //             });
+        //     });
+        // });
+
+        //======== 拷贝代码按钮 ===========
+        var highlightBlocks = document.getElementsByClassName('highlight');
+        if (highlightBlocks != null) {
+            console.info(highlightBlocks);
+            Array.prototype.forEach.call(highlightBlocks, addCopyButton);
+        }
+        function selectText(node) {
+            var selection = window.getSelection();
+            var range = document.createRange();
+            range.selectNodeContents(node);
+            selection.removeAllRanges();
+            selection.addRange(range);
+            return selection;
+        }
+
+        function flashCopyMessage(el, msg) {
+            el.textContent = msg;
+            setTimeout(function () {
+                el.textContent = "Copy";
+            }, 1000);
+        }
+
+        function addCopyButton(containerEl) {
+            var copyBtn = document.createElement("button");
+            copyBtn.className = "highlight-copy-btn";
+            copyBtn.textContent = "Copy";
+
+            var codeEl = containerEl.firstElementChild.firstElementChild.firstElementChild.firstElementChild.children[1];
+            copyBtn.addEventListener('click', function () {
+                try {
+                    var selection = selectText(codeEl);
+                    document.execCommand('copy');
+                    selection.removeAllRanges();
+                    flashCopyMessage(copyBtn, 'Copied!')
+                } catch (e) {
+                    console && console.log(e);
+                    flashCopyMessage(copyBtn, 'Failed :\'(')
+                }
             });
-        });
+            containerEl.appendChild(copyBtn);
+        }
+        //======== 拷贝代码按钮 ===========
 
         new StackColorScheme(document.getElementById('dark-mode-toggle'));
     }

@@ -13,6 +13,35 @@
   --card-text-color-main: #0d0015;
   --card-text-color-secondary: #FF1493;
   --card-text-color-tertiary: #000000;
+  --card-padding: 10px;
+}
+
+// 代码样式更改
+[data-scheme=light] {
+  --pre-background-color: #e0e0e0;
+}
+
+// 添加 copy button
+.highlight-copy-btn {
+  position: absolute;
+  top: 7px;
+  right: 7px;
+  border: 0;
+  border-radius: 4px;
+  padding: 1px;
+  font-size: 0.8em;
+  line-height: 1.8;
+  color: #fff;
+  background-color: #777;
+  min-width: 55px;
+  text-align: center;
+  cursor: pointer;
+  opacity: 0;
+  transition: opacity 0.3s ease;
+}
+.highlight-copy-btn:hover {
+  opacity: 1;
+  // background-color: #666;
 }
 
 
@@ -63,41 +92,6 @@
   }
 }
 
-[data-theme="dark"] .notice {
-  &.notice-warning {
-      background: hsla(0, 25%, 35%, 0.15);
-      border-left: 5px solid hsl(0, 25%, 35%);
-      .notice-title {
-          color: hsl(0, 25%, 35%);
-      }
-  }
-  &.notice-info {
-      background: hsla(30, 25%, 35%, 0.15);
-      border-left: 5px solid hsl(30, 25%, 35%);
-      .notice-title {
-          color: hsl(30, 25%, 35%);
-      }
-  }
-  &.notice-note {
-      background: hsla(200, 25%, 35%, 0.15);
-      border-left: 5px solid hsl(200, 25%, 35%);
-      .notice-title {
-          color: hsl(200, 25%, 35%);
-      }
-  }
-  &.notice-tip {
-      background: hsla(140, 25%, 35%, 0.15);
-      border-left: 5px solid hsl(140, 25%, 35%);
-      .notice-title {
-          color: hsl(140, 25%, 35%);
-      }
-  }
-}
-
-
-
-
-
 // github.html 的样式表
 .github {
     border: 2px solid #00FA9A;
@@ -121,7 +115,7 @@
     .description {
         margin-top: 0.5em;
         margin-bottom: 1em;
-        color: white;
+        color: #bf242a;
         text-align: justify;
         font-size: 90%;
         transition: all .5s;
@@ -161,9 +155,10 @@
     width: 100%;
 }
 .amazon-widget-img {
-    border: 1px solid #E1E8ED;
+    border: 3px solid #00a3af;
     border-radius: 15px 15px 0 0;
     text-align: center;
+    background-color: #b8d200;
  }
 .amazon-widget-img img {
     border: none;
@@ -172,11 +167,12 @@
     padding: 16px;
 }
 .amazon-widget-info {
-    border-right: 1px solid #E1E8ED;
-    border-bottom: 1px solid #E1E8ED;
-    border-left: 1px solid #E1E8ED;
+    border-right: 3px solid #00a3af;
+    border-bottom: 3px solid #00a3af;
+    border-left: 3px solid #00a3af;
     padding:5px 10px 10px 10px;
-    border-radius:0 0 15px 15px;
+    border-radius:0 0 15px 20px;
+    background-color: #b8d200;
 }
 .amazon-widget:hover .amazon-widget-info {
     background-color: #E1E8ED;
@@ -285,3 +281,42 @@ $hover: 0.05s cubic-bezier(0.17,0.86,0.73,0.14);
       transform: translateY(-10px);
     }
 }
+
+
+
+// 标签面板样式表
+.tab {
+  position: relative;
+  padding: 0.5rem 0;
+  margin: 2rem 0;
+
+  &__links {
+    height: 30px;
+    border-top-left-radius: 0.25rem;
+  }
+
+  &__link {
+    outline: none;
+    border: none;
+    cursor: pointer;
+    font-size: 13.8px;
+    text-transform: capitalize;
+    padding: 0.5rem 0.75rem;
+    border-top-left-radius: 0.25rem;
+    border-top-right-radius: 0.25rem;
+    
+    &.active {
+      background-color: themed('body-background-color');
+      border: 1px solid themed('hr-color');
+      border-bottom: none;
+    }
+  }
+
+  &__content {
+    display: none;
+    padding: 0 0.5rem;
+    border-radius: 0.25rem;
+    border-top-left-radius: 0;
+  }
+}
+

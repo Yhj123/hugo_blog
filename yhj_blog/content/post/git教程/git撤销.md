@@ -16,9 +16,11 @@ git log
 ```shell
 git reset --mixed [版本号]
 ```
-> 使用 mixed, 只会清空暂存区与本地库,工作区代码依然保留.
-
-> 使用 hard, 本地代码也会消失.
+{{< notice notice-tip >}}
+- 使用 mixed, 只会清空暂存区与本地库(撤销 git commit, 撤销 git add),工作区代码(编辑器改动代码)依然保留.
+- 使用 soft, 撤销git commit,不撤销git add,保留编辑器改动代码.
+- 使用 hard, 本地代码也会消失(撤销 git commit,撤销 git add,删除编辑器改动代码).
+{{< /notice >}}
 
 - git push origin master --force 通过强制提交当前版本号到线上,以便达到撤销版本号的目的
 ```shell
@@ -49,4 +51,5 @@ git commit -m "注释"
 git push origin master
 ```
 
-[参考链接](https://www.jianshu.com/p/c2ec5f06cf1a)
+- [参考链接1](https://www.jianshu.com/p/c2ec5f06cf1a)
+- [参考链接2](https://www.cnblogs.com/PeunZhang/p/11649910.html)

@@ -46,6 +46,9 @@ links:
   - title: 代码阅读
     description: 技术网站
     website: https://codebrowser.dev/
+  - title: qt相关
+    description: 技术网站
+    website: https://www.devbean.net/
   - title: 电子开发网
     description: 电子电路
     website: http://www.dzkfw.com.cn/
