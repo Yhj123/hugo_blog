@@ -13,6 +13,9 @@ links:
     description: TypeScript is a typed superset of JavaScript that compiles to plain JavaScript.
     website: https://www.typescriptlang.org
     image: ts-logo-128.jpg
+  - title: CodePen
+    description: 前端练习
+    website: https://codepen.io/
   - title : 神奇的程序员
     description: 翻到的帖子
     website: https://www.kaisir.cn/
@@ -58,12 +61,18 @@ links:
   - title: hackerrank
     description: 技术网站
     website: https://www.hackerrank.com/
+  - title: web相关
+    description: 前端
+    website: https://developer.mozilla.org/zh-CN/docs/Learn/Getting_started_with_the_web
   - title: 经济学人
     description: 英文杂志
     website: https://www.economist.com/
   - title: Science American
     description: 英文杂志
     website: https://www.scientificamerican.com/
+  - title: 应用网站
+    description: 发现应用
+    website: https://www.producthunt.com/
 menu:
     main: 
         weight: -50

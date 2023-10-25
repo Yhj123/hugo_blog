@@ -59,7 +59,7 @@ git clone --depth=1 https://github.com/jaywcjlove/linux-command.git
 ```
 > 只会把默认分支clone下来, 其他远程分支并不在本地.
 #### 克隆远程仓库的指定分支 dev_jk
-``` 
+``` shell
 git clone -b dev_jk http://10.1.1.11/service/tmall-service.git
 ```
 

@@ -44,6 +44,8 @@ permalinks:
     page: /:slug/
 
 params:
+    GithubEdit: "https://github.com/Yhj123/hugo_blog/edit/master/yhj_blog/content/"
+    GithubRepo: "https://github.com/Yhj123/hugo_blog"
     mainSections:
         - post
     featuredImageField: image
@@ -77,7 +79,7 @@ params:
             default: Licensed under CC BY-NC-SA 4.0
 
     comments:
-        enabled: true
+        enabled: false
         provider: disqus
 
         disqusjs:

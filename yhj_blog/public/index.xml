@@ -6,7 +6,96 @@
         <description>Recent content on WHO</description>
         <generator>Hugo -- gohugo.io</generator>
         <language>en-us</language>
-        <lastBuildDate>Wed, 27 Sep 2023 11:39:38 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <lastBuildDate>Sat, 21 Oct 2023 16:57:01 +0800</lastBuildDate><atom:link href="/index.xml" rel="self" type="application/rss+xml" /><item>
+        <title>串口通信</title>
+        <link>/p/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/</link>
+        <pubDate>Sat, 21 Oct 2023 16:57:01 +0800</pubDate>
+        
+        <guid>/p/%E4%B8%B2%E5%8F%A3%E9%80%9A%E4%BF%A1/</guid>
+        <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;起始位: 标志一个数据帧的开始, 固定为低电平.&lt;/li&gt;
+&lt;li&gt;数据位: 数据帧的有效载荷, 1 为高电平, 0 为低电平, 低位先行.&lt;/li&gt;
+&lt;li&gt;停止位: 用于数据帧间隔,固定为高电平.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;h3 id=&#34;电平标准&#34;&gt;电平标准&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;电平标准是数据1和数据0的表达方式，是传输线缆中人为规定的电压与数据的对应关系，串口常用的电平标准有如下三种:&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      电平标准
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+TTL电平: &lt;mark&gt;&amp;#43;3.3V 或 &amp;#43;5V 表示 1，0V 表示 0.&lt;/mark&gt;&lt;/br&gt;
+RS232电平：&lt;mark&gt;-3 ~ -15V 表示 1，&amp;#43;3~&amp;#43;15V 表示 0.&lt;/mark&gt;&lt;/br&gt;
+RS485电平：&lt;mark&gt;两线压差&amp;#43;2~&amp;#43;6V表示1，-2~-6V表示0(差分信号).&lt;/mark&gt;&lt;/br&gt;
+
+&lt;/details&gt;
+</description>
+        </item>
+        <item>
+        <title>USART通信协议</title>
+        <link>/p/usart%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/</link>
+        <pubDate>Fri, 20 Oct 2023 15:23:45 +0800</pubDate>
+        
+        <guid>/p/usart%E9%80%9A%E4%BF%A1%E5%8D%8F%E8%AE%AE/</guid>
+        <description>&lt;h2 id=&#34;heading&#34;&gt;&lt;/h2&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      USART 示波器
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    &lt;img src=&#34;/img/嵌入式/USART示波器.png&#34; data-fancybox=&#34;gallery&#34; width=&#34;100%&#34; height=&#34;20&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+
+&lt;/details&gt;
+&lt;h2 id=&#34;视频链接&#34;&gt;视频链接&lt;/h2&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      视频
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=25&amp;bvid=BV1th411z7sn&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+
+
+&lt;/details&gt;
+</description>
+        </item>
+        <item>
+        <title>stm32存储</title>
+        <link>/p/stm32%E5%AD%98%E5%82%A8/</link>
+        <pubDate>Mon, 16 Oct 2023 12:41:22 +0800</pubDate>
+        
+        <guid>/p/stm32%E5%AD%98%E5%82%A8/</guid>
+        <description>&lt;img src=&#34;/img/嵌入式/存储器映像.png&#34; data-fancybox=&#34;gallery&#34; width=&#34;100&#34; height=&#34;100&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+&lt;/br&gt;
+</description>
+        </item>
+        <item>
         <title>项目添加ui文件</title>
         <link>/p/%E9%A1%B9%E7%9B%AE%E6%B7%BB%E5%8A%A0ui%E6%96%87%E4%BB%B6/</link>
         <pubDate>Wed, 27 Sep 2023 11:39:38 +0800</pubDate>
@@ -466,115 +555,214 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;2000&#34; data-height=&
         <pubDate>Wed, 13 Sep 2023 09:17:38 +0800</pubDate>
         
         <guid>/p/stm32%E7%AE%80%E4%BB%8B/</guid>
-        <description>&lt;p&gt;
+        <description>&lt;h2 id=&#34;概述&#34;&gt;概述&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;内核: 主流系列 ARM Cortex-M3系列&lt;/li&gt;
+&lt;li&gt;主频: 72MHz&lt;/li&gt;
+&lt;li&gt;RAM(SRAM): 20KB&lt;/li&gt;
+&lt;li&gt;ROM(Flash): 64KB&lt;/li&gt;
+&lt;li&gt;供电: 2.6 ~ 3.6V(标准 3.3V)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      概述
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    &lt;img src=&#34;/img/嵌入式/概述.png&#34; data-fancybox=&#34;gallery&#34; width=&#34;100%&#34; height=&#34;20&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+
+&lt;/details&gt;
+&lt;h2 id=&#34;结构&#34;&gt;结构&lt;/h2&gt;
+&lt;h3 id=&#34;系统结构&#34;&gt;系统结构&lt;/h3&gt;
+&lt;ul&gt;
+&lt;li&gt;ICode(指令总线): 加载程序指令.&lt;/li&gt;
+&lt;li&gt;DCode(数据总线): 加载数据.&lt;/li&gt;
+&lt;li&gt;System(系统总线):&lt;/li&gt;
+&lt;li&gt;SRAM: 存储程序运行时的变量数据.&lt;/li&gt;
+&lt;li&gt;DMA&lt;sup id=&#34;fnref:1&#34;&gt;&lt;a href=&#34;#fn:1&#34; class=&#34;footnote-ref&#34; role=&#34;doc-noteref&#34;&gt;1&lt;/a&gt;&lt;/sup&gt;: 用来提供在外设和存储器之间或者存储器和存储器之间的高速数据传输。无须CPU的干预，通过DMA数据可以快速地移动。这就节省了CPU的资源来做其他操作&lt;/li&gt;
+&lt;/ul&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      系统结构
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    &lt;img src=&#34;/img/嵌入式/系统结构.png&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+
+&lt;/details&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      片上资源/外设
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    &lt;img src=&#34;/img/嵌入式/外设.png&#34; data-fancybox=&#34;gallery&#34; width=&#34;100%&#34; height=&#34;20&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
+
+&lt;/details&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      引脚定义
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    &lt;img src=&#34;/img/嵌入式/引脚定义.png&#34; data-fancybox=&#34;gallery&#34; width=&#34;100%&#34; height=&#34;20&#34; data-width=&#34;2000&#34; data-height=&#34;2000&#34;&gt;
+    
+&lt;div class=&#34;notice notice-info&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(30, 80%, 70%)&#34;&gt;&lt;path d=&#34;M256 8a248 248 0 100 496 248 248 0 000-496zm0 110a42 42 0 110 84 42 42 0 010-84zm56 254c0 7-5 12-12 12h-88c-7 0-12-5-12-12v-24c0-7 5-12 12-12h12v-64h-12c-7 0-12-5-12-12v-24c0-7 5-12 12-12h64c7 0 12 5 12 12v100h12c7 0 12 5 12 12v24z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;橙色: &lt;mark&gt;电源相关引脚&lt;/mark&gt;. 蓝色:&lt;mark&gt;最小系统相关引脚&lt;/mark&gt;. 绿色:&lt;mark&gt;IO口,功能相关引脚&lt;/mark&gt;.&lt;/li&gt;
+&lt;li&gt;S: &lt;mark&gt;电源&lt;/mark&gt;. I: &lt;mark&gt;输入&lt;/mark&gt;. O: &lt;mark&gt;输出&lt;/mark&gt;.&lt;/li&gt;
+&lt;li&gt;有 FT 的: &lt;mark&gt;能容忍 5V 电压&lt;/mark&gt;. 无 FT 的: &lt;mark&gt;只能容忍 3.3V 电压&lt;/mark&gt;.&lt;/li&gt;
+&lt;li&gt;SWD 调试方式: &lt;mark&gt;需要 SWDIO 和 SWCLK 两根线&lt;/mark&gt;. JTAG 调试方式: &lt;mark&gt;需要 JTMS, JTCK, JTDI, JTDO, NJTRST 五根线&lt;/mark&gt;.&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
 
 
 
-
+&lt;/details&gt;
+&lt;h2 id=&#34;视频链接&#34;&gt;视频链接&lt;/h2&gt;
+&lt;details class=&#34;custom-details&#34;&gt;
+  &lt;summary class=&#34;custom-summary&#34;&gt;
+    &lt;font size=&#34;4&#34; color=&#34;orange&#34;&gt;
+      视频
+    &lt;/font&gt;
+  &lt;/summary&gt;
+  
+    
+    
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=2&amp;bvid=BV1th411z7sn&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
 
     
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=2&amp;bvid=BV1th411z7sn&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-            autoplay=&#34;false&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-
-
-
-
-
+    
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=3&amp;bvid=BV1th411z7sn&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
 
     
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=3&amp;bvid=BV1th411z7sn&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-            autoplay=&#34;false&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-
-
-
-
-
+    
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1HM411b78E&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
 
     
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1HM411b78E&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-            autoplay=&#34;false&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-
-
-
-
-
+    
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=4&amp;bvid=BV1th411z7sn&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
 
     
-
-
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=4&amp;bvid=BV1th411z7sn&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-            autoplay=&#34;false&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
-
-
-
-
-
-
     
+    
+    
+    
+    
+        
+    
+    
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s84y1h77Q&#34;
+                scrolling=&#34;no&#34;
+                frameborder=&#34;no&#34;
+                framespacing=&#34;0&#34;
+                allowfullscreen=&#34;true&#34;
+                autoplay=&#34;false&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
+
+    &lt;div class=&#34;video-wrapper&#34;&gt;
+        &lt;iframe loading=&#34;lazy&#34; 
+                src=&#34;https://www.youtube.com/embed/OEsMC7FkAGQ&#34; 
+                allowfullscreen 
+                title=&#34;YouTube Video&#34;
+        &gt;
+        &lt;/iframe&gt;
+    &lt;/div&gt;
 
 
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe src=&#34;https://player.bilibili.com/player.html?as_wide=1&amp;amp;high_quality=1&amp;amp;page=1&amp;bvid=BV1s84y1h77Q&#34;
-            scrolling=&#34;no&#34;
-            frameborder=&#34;no&#34;
-            framespacing=&#34;0&#34;
-            allowfullscreen=&#34;true&#34;
-            autoplay=&#34;false&#34;
-    &gt;
-    &lt;/iframe&gt;
+&lt;/details&gt;
+&lt;h2 id=&#34;参考链接&#34;&gt;参考链接&lt;/h2&gt;
+&lt;div class=&#34;footnotes&#34; role=&#34;doc-endnotes&#34;&gt;
+&lt;hr&gt;
+&lt;ol&gt;
+&lt;li id=&#34;fn:1&#34;&gt;
+&lt;p&gt;&lt;a class=&#34;link&#34; href=&#34;https://blog.csdn.net/as480133937/article/details/104927922&#34;  target=&#34;_blank&#34; rel=&#34;noopener&#34;
+    &gt;DMA
+    
+    
+    &lt;span style=&#34;white-space: nowrap;&#34;&gt;
+        &lt;svg width=&#34;.7em&#34; height=&#34;.7em&#34; viewBox=&#34;0 0 21 21&#34; xmlns=&#34;http://www.w3.org/2000/svg&#34;&gt;
+            &lt;path d=&#34;m13 3l3.293 3.293l-7 7l1.414 1.414l7-7L21 11V3z&#34; fill=&#34;currentColor&#34; /&gt;
+            &lt;path d=&#34;M19 19H5V5h7l-2-2H5c-1.103 0-2 .897-2 2v14c0 1.103.897 2 2 2h14c1.103 0 2-.897 2-2v-5l-2-2v7z&#34;
+        fill=&#34;currentColor&#34;&gt;
+        &lt;/svg&gt;
+    &lt;/span&gt;
+    
+    
+&lt;/a&gt;&amp;#160;&lt;a href=&#34;#fnref:1&#34; class=&#34;footnote-backref&#34; role=&#34;doc-backlink&#34;&gt;&amp;#x21a9;&amp;#xfe0e;&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ol&gt;
 &lt;/div&gt;
-&lt;/p&gt;
-&lt;div class=&#34;video-wrapper&#34;&gt;
-    &lt;iframe loading=&#34;lazy&#34; 
-            src=&#34;https://www.youtube.com/embed/OEsMC7FkAGQ&#34; 
-            allowfullscreen 
-            title=&#34;YouTube Video&#34;
-    &gt;
-    &lt;/iframe&gt;
-&lt;/div&gt;
-
 </description>
         </item>
         <item>
@@ -901,6 +1089,18 @@ side of the magnetic field. And as this passes through, it&amp;rsquo;s going to 
         
         <guid>/p/%E4%BA%94%E6%98%9F%E5%A4%A7%E9%A5%AD%E5%BA%97/</guid>
         <description>
+
+
+
+
+
+
+
+
+&lt;iframe src= &#34;https://mastodon.social/@yhjedward/111225865520518990/embed&#34; class=&#34;mastodon-embed&#34; style=&#34;max-width: 100%; border: 0&#34; width=&#34;100%&#34; height=&#34;auto&#34; allowfullscreen=&#34;allowfullscreen&#34;&gt;&lt;/iframe&gt;&lt;script src=&#34;https://mastodon.social/embed.js&#34; async=&#34;async&#34;&gt;&lt;/script&gt;
+
+
+
 &lt;div id=&#34;9dbec01c5578374b&#34; class=&#34;tab&#34;&gt;
   &lt;div class=&#34;tab__links&#34;&gt;
     
@@ -1163,19 +1363,7 @@ Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rum
         
         <guid>/p/%E7%BB%A7%E6%89%BF/</guid>
         <description>&lt;h2 id=&#34;继承&#34;&gt;继承&lt;/h2&gt;
-&lt;p&gt;&lt;img src=&#34;/img/cplusplus/override1.jpg&#34;
-	
-	
-	
-	loading=&#34;lazy&#34;
-	
-		alt=&#34;继承&#34;
-	
-	
-&gt;
-&lt;/p&gt;
-&lt;img src=&#34;/img/cplusplus/override1.jpg&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;2000&#34; data-height=&#34;1000&#34;&gt;
-&lt;/br&gt;
+&lt;img src=&#34;/img/cplusplus/override1.jpg&#34; data-fancybox=&#34;gallery&#34; data-width=&#34;1000&#34; data-height=&#34;1000&#34;&gt;
 </description>
         </item>
         <item>
@@ -1208,12 +1396,14 @@ Rumble(&#34;play&#34;, {&#34;video&#34;:&#34;v3fpl1u&#34;,&#34;div&#34;:&#34;rum
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git reset --mixed &lt;span class=&#34;o&#34;&gt;[&lt;/span&gt;版本号&lt;span class=&#34;o&#34;&gt;]&lt;/span&gt;
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
-&lt;/div&gt;&lt;blockquote&gt;
-&lt;p&gt;使用 mixed, 只会清空暂存区与本地库,工作区代码依然保留.&lt;/p&gt;
-&lt;/blockquote&gt;
-&lt;blockquote&gt;
-&lt;p&gt;使用 hard, 本地代码也会消失.&lt;/p&gt;
-&lt;/blockquote&gt;
+&lt;/div&gt;
+&lt;div class=&#34;notice notice-tip&#34; &gt;
+    &lt;div class=&#34;notice-title&#34;&gt;&lt;svg xmlns=&#34;http://www.w3.org/2000/svg&#34; class=&#34;icon notice-icon&#34; viewBox=&#34;0 0 512 512&#34; fill=&#34;hsl(140, 65%, 65%)&#34;&gt;&lt;path d=&#34;M504 256a248 248 0 11-496 0 248 248 0 01496 0zM227 387l184-184c7-6 7-16 0-22l-22-23c-7-6-17-6-23 0L216 308l-70-70c-6-6-16-6-23 0l-22 23c-7 6-7 16 0 22l104 104c6 7 16 7 22 0z&#34;/&gt;&lt;/svg&gt;&lt;/div&gt;&lt;ul&gt;
+&lt;li&gt;使用 mixed, 只会清空暂存区与本地库(撤销 git commit, 撤销 git add),工作区代码(编辑器改动代码)依然保留.&lt;/li&gt;
+&lt;li&gt;使用 soft, 撤销git commit,不撤销git add,保留编辑器改动代码.&lt;/li&gt;
+&lt;li&gt;使用 hard, 本地代码也会消失(撤销 git commit,撤销 git add,删除编辑器改动代码).&lt;/li&gt;
+&lt;/ul&gt;&lt;/div&gt;
+
 &lt;ul&gt;
 &lt;li&gt;git push origin master &amp;ndash;force 通过强制提交当前版本号到线上,以便达到撤销版本号的目的&lt;/li&gt;
 &lt;/ul&gt;
@@ -1466,6 +1656,15 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git log --graph feature
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;查看所以历史版本信息&#34;&gt;查看所以历史版本信息&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git reflog
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
 &lt;/div&gt;&lt;h2 id=&#34;一台电脑配置多个-git-账号&#34;&gt;一台电脑配置多个 git 账号&lt;/h2&gt;
 &lt;h3 id=&#34;涉及到的命令&#34;&gt;涉及到的命令&lt;/h3&gt;
 &lt;h4 id=&#34;查看之前的设置&#34;&gt;查看之前的设置&lt;/h4&gt;
@@ -1610,7 +1809,16 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;/a&gt;:Yhj123/xue.git: 远程仓库地址.&lt;/li&gt;
 &lt;/ul&gt;&lt;/div&gt;
 
-&lt;h4 id=&#34;将本地的-master-分支推送到远程仓库-origin-的-develop-分支&#34;&gt;将本地的 master 分支推送到远程仓库 origin 的 develop 分支&lt;/h4&gt;
+&lt;h4 id=&#34;初次建立仓库推送到远程&#34;&gt;初次建立仓库推送到远程&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git push --set-upstream origin master
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;将本地的-master-分支推送到远程仓库-origin-的-develop-分支&#34;&gt;将本地的 master 分支推送到远程仓库 origin 的 develop 分支&lt;/h4&gt;
 &lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
 &lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
@@ -1655,7 +1863,25 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
 &lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
 &lt;td class=&#34;lntd&#34;&gt;
-&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-fallback&#34; data-lang=&#34;fallback&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone -b dev_jk http://10.1.1.11/service/tmall-service.git
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git clone -b dev_jk http://10.1.1.11/service/tmall-service.git
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h2 id=&#34;git-查看-origin-信息&#34;&gt;git 查看 origin 信息&lt;/h2&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote show origin
+&lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
+&lt;/div&gt;
+&lt;/div&gt;&lt;h4 id=&#34;git-删除-origin&#34;&gt;git 删除 origin&lt;/h4&gt;
+&lt;div class=&#34;highlight&#34;&gt;&lt;div class=&#34;chroma&#34;&gt;
+&lt;table class=&#34;lntable&#34;&gt;&lt;tr&gt;&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code&gt;&lt;span class=&#34;lnt&#34;&gt;1
+&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;
+&lt;td class=&#34;lntd&#34;&gt;
+&lt;pre tabindex=&#34;0&#34; class=&#34;chroma&#34;&gt;&lt;code class=&#34;language-shell&#34; data-lang=&#34;shell&#34;&gt;&lt;span class=&#34;line&#34;&gt;&lt;span class=&#34;cl&#34;&gt;git remote rm origin
 &lt;/span&gt;&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/td&gt;&lt;/tr&gt;&lt;/table&gt;
 &lt;/div&gt;
 &lt;/div&gt;</description>
@@ -1799,14 +2025,6 @@ data-fancybox data-type=&#34;iframe&#34; data-width=&#34;1000&#34; data-height=&
 &lt;p&gt;如果想修改 tag 下的代码，切记不要直接在此标签下提交代码,需要单独创建一个分支, 在分支上修改并提交.&lt;/p&gt;
 &lt;/blockquote&gt;
 </description>
-        </item>
-        <item>
-        <title>TTL电平</title>
-        <link>/p/ttl%E7%94%B5%E5%B9%B3/</link>
-        <pubDate>Wed, 10 May 2023 14:57:00 +0800</pubDate>
-        
-        <guid>/p/ttl%E7%94%B5%E5%B9%B3/</guid>
-        <description></description>
         </item>
         <item>
         <title>电容</title>

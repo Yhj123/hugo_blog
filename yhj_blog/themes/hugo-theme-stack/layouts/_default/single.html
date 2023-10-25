@@ -21,7 +21,6 @@
     {{- .Scratch.Set "TOCEnabled" (and $TOCEnabled $hasTOC) -}}
     
     {{- .Scratch.Set "hasWidget" (or $HasWidgetNotTOC (and $TOCEnabled $hasTOC)) -}}
-
 {{ end }}
 
 {{ define "main" }}
@@ -33,8 +32,24 @@
 
     {{ partial "record.html" . }}
 
+    <span>
+        {{ if .IsPage}} 
+        {{ if .File.Path}}
+        {{ $Rmd := (print .File.BaseFileName ".Rmd") }}
+        {{ if (where (readDir (print "content/" .File.Dir)) "Name" $Rmd) }}
+        {{ $.Scratch.Set "FilePath" (print .File.Dir $Rmd) }}
+        {{ else }}
+        {{ $.Scratch.Set "FilePath" .File.Path }}
+        {{ end }}
+        {{ with .Site.Params.GithubEdit}}
+        <a href='{{ . }}{{ $.Scratch.Get "FilePath" }}'>Edit this page</a>
+        {{ end }}
+        {{ end }}
+        {{ end }}
+    </span>
+    
     {{ partial "article/components/related-content" . }}
-     
+    
     {{ if not (eq .Params.comments false) }}
         {{ partial "comments/include" . }}
     {{ end }}
